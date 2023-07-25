@@ -1,0 +1,26 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/coistationCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div>
+        <div>
+        <h2>Coimbra geomagnetic station</h2>
+        <p> The University of Coimbra has been responsible for regular observations of the Earth's magnetic field since 1866. Currently the magnetic observatory of Coimbra, designated COI by the International Association of Geomagnetism and Aeronomy (IAGA), is managed by OGAUC. </p>
+    </div>
+    <div class="txt_img_right">
+        <p><img  src="{%static 'imagens/geomagnetic/pic_OGAUCmag.jpg'%}" style="width:12.5vw"> The COI magnetic observatory is located at OGAUC's facilities in Alto da Baleia street, Coimbra (geographic coordinates: lat. 40.222°N, lon. 351.578°E, alt. 99.0m; geomagnetic coordinates: lat. 43.8°N, lon.72.1°E). Its instrumentation include a DI-flux magnetometer (consisting of a fluxgate sensor MAG-01H mounted on a YOM MG2KP steel-free theodolite) and a scalar proton type magnetometer (Overhauser GSM-90F1), for the absolute measurements, and a tri-axial fluxgate variometer (FGE model, Suspended version) for the continuous recordings of the nagnetics variations of the HDZ components. Absolute measurements are acquired weekly (following the standard procedures), while the continuous observations are recorded at a 1Hz rate. </p>
+    </div>
+    <div class="txt_img_right">
+        <p>In addition to providing in near real-time level-1 data products, including the 1 minute averaged total intensity (F) and HDZ components of the magnetic field and their corresponding short term variations (dB/dt), level-2 products are computed such as local geomagnetic indices (Kcoi), which are estimated taking into account the daily quiet geomagnetic variations. The observations provided here were automatically processed. For this reason, we can not exclude the existence of magnetically polluted data, spikes or wrong values resulting from malfunctions of the data logger. On the other hand, the calibrated data are provisional, having been obtained using a fixed baseline. Following the standard procedures, the final baseline is only derived in the following year. </p>
+    </div>
+    <div class="txt_img_right">
+        <p>At the beginning of each month is issued a bulletin with the geomagnetic conditions recorded at the Magnetic Observatory of Coimbra during the previous month. Older data and reports can be found in our database, while historical data are available on OGAUC's webpage. </p>
+    </div>
+    <div class="txt_img_right">
+        <p>If you use our data please make reference to: "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available by Centro de Investigação da Terra e do Espaço da Universidade de Coimbra, through the Space Weather service SPINLab (Space-Planetary Interactions Monitoring and Forecasting Laboratory)".</p>
+    </div>
+    </div>
+{%endblock%} 

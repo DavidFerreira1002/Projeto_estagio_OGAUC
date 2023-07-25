@@ -1,0 +1,25 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/monthlyreportCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div>
+        <div class="txt_img_table">
+        <div>
+        <h2>Monthly bulletin</h2>
+        <p>
+            <table >
+                <tr>
+                    <td> <embed src="{%static 'imagens/Geomagnetic/last_bulletin.pdf' %}"/></td>
+                </tr>
+            </table>
+        <p>     
+        At the beginning of each month is issued a bulletin of the geomagnetic conditions at Coimbra during the previous month. Among other things, this report includes each day's tri-hourly local K and ak indices; the average intensity and daily amplitudes of the different components of the magnetic field; a list of the most quiet and disturbed days of that month (both in local and a global terms) and a description of the main geomagnetic storms registered by Coimbra's magnetic station. This section provides our latest bulletin. A few other reports are available on our database section. Older reports can be found on OGAUC's webpage. If you use our data please make reference to "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available through the Space Weather Service SPINLab (http://www.mat.uc.pt/~obsv/SPINLab/SPINLab_home.php) from Centro de Investigação da Terra e do Espaço da Universidade de Coimbra".
+        </p>
+        </p>
+        
+    </div>
+    </div>
+{%endblock%} 

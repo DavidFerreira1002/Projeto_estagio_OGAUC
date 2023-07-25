@@ -1,0 +1,26 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/geomagneticCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div>
+        <h2>Geomagnetic Data</h2>
+        <p> Here can be found not only the geomagnetic observations from the Coimbra station (COI), but also other observables of interest for the monitoring of space weather conditions. </p>
+    </div>
+    <div class="txt_img_right">
+        <p><img  src="{%static 'imagens/geomagnetic/pic_geomagnetisme.png'%}" style="width:15vw"> Geomagnetic storms result from variations in the solar wind (many resulting from coronal mass ejections) resulting in major changes in the currents, plasmas, and fields in Earth’s magnetosphere. In addition to the occurrence of auroas, the inpact of these events can include disruptions in global navigation systems and power grids. Magnetic field variations are constaly measured by observatories across the world, usually in one second to one minute intervals. </p>
+    </div>
+    <div class="txt_img_right">
+        <p>Global geomagnetic indices such as the disturbance storm time (Dst) and and the planetary K index provide information about the disturbance level of the geomagnetic field on a global scale. These are computed using the variations of the magnetic field observed by several magnetometers located around the world on an hourly/tri-hourly basis. These observations are corrected of long term and normal diurnal variations of the magnetic field. The later one is computed taking into account the most geomagnetic quiet days defined internationally (often the 5 most quiet days of the previous month). A Dst index of -50 or deeper or Kp indices greater or equal to 5 indicate a storm-level disturbances.
+        It is also possible to compute local geomagnetic indices concerning the local magnetic field conditions, yet in this case the local daily variation has to removed first </p>
+    </div>
+    <div class="txt_img_left">
+        <p><img  src="{%static 'imagens/geomagnetic/pic_usgs.png'%}" style="width:10vw"> The magnetic field is vectorial quantity, i.e. it has magnitude and direction. In a three dimensional world is described by three quantities which vary depending on the coordinate system used. In the case of the observations from Coimbra's geomagnetic station (IAGA code: COI) we present the magnetic field's intensity tangential to Earth's surface (i.e. horizontal - H); the downward component of the field (Z) and the angle btween the horizontal component of the magnetic field and the geographic north pole (or magnetic declination - D). Likewise can be indicated the inclination of the magnetic field in respect to the vertical direction (I). Instead of the H and D components of we can use the horizontal component's intensity towards the north pole (X) and towards the East (X). Consequently the total magnitude of the magnetic field F corresponds to √(X²+Y²+Z²) or √(H²+Z²). </p>
+    </div>
+    <div class="txt_img_right">
+        <p><img  src="{%static 'imagens/geomagnetic/pic_power_lines.jpg'%}" style="width:10vw"> 
+        Geomagnetically induced currents (GIC) are quasi-direct currents induced on electrical conductors by strong variations of Earth's magnetic field that occur during strong geomagnetic storms. These can severely disrupt the electrical power grid (particularly by damaging power transformers) as in the 1989 event. The study of geomagnetically induced currents in northeastern Spain's power grid, shows the local variation of the geomagnetic field's importance in assessing the impact of GICs on the national power grid. </p>
+    </div>
+{%endblock%} 

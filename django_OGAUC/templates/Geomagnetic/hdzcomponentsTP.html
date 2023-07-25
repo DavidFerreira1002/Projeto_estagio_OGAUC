@@ -1,0 +1,73 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/hdzcomponentsCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div >
+        <div class="txt_img_table">
+        <div>
+        <h2>Coimbra geomagnetic observations</h2>
+        <p>
+            <table >
+                <tr>
+                    <td>HDZ components and Total intensity (F) of the magnetic field</td>
+                    <td>Calibrated data</td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_rawH.png">
+                        <figcaption>H</figcaption>
+                        </figure></td>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_calH.png">
+                        <figcaption>H</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_rawD.png">
+                        <figcaption>D</figcaption>
+                        </figure></td>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_calD.png">
+                        <figcaption>D</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_rawZ.png">
+                        <figcaption>Z</figcaption>
+                        </figure></td>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_calZ.png">
+                        <figcaption>Z</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_rawF.png">
+                        <figcaption>F</figcaption>
+                        </figure></td>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_calX.png">
+                        <figcaption>X</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td>Baseline:# H(nT)  D(o) Z(nT)<br>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 25441 -4.1463 36223</td>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_calY.png" styles="width:15vw">
+                        <figcaption>Y</figcaption>
+                        </figure></td>
+                </tr>
+            </table>
+        <p>     
+        Geomagnetic observations taken at OGAUC's geomagnetic station. In addition to the intensity of the magnetic field (F) we provide the intensities of the horizontal (H) and vertical (Z) components of the magnetic field plus the magnetic declination (D). The data calibration is provisional. The final calibration of the geomagnetic data is only achieved once the definitive baseline is computed in the following year. If you use our data please make reference to: "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available by Centro de Investigação da Terra e do Espaço da Universidade de Coimbra, through the Space Weather service SPINLab (Space-Planetary Interactions Monitoring and Forecasting Laboratory)". 
+        </p>
+        </p>
+        
+    </div>
+    </div>
+{%endblock%} 

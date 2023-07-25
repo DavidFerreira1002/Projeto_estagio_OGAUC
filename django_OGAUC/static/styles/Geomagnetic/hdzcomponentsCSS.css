@@ -1,0 +1,23 @@
+.txt_img_table table {
+    float: right;
+    margin-left:3vw;
+}
+
+.txt_img_table td{
+    text-align: center;
+    font: bold;
+}
+
+.txt_img_table img{
+    width: 20vw;
+    border:0.15vw solid black;
+}
+
+.txt_img_table::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.txt_img_table p {
+    font-size: 1.40vw;
+}

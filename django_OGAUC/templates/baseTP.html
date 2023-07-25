@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% load static %}
+{% csrf_token %}
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title> {{tab_title}} </title>
+    <link rel="stylesheet" href="{% static 'styles/baseCSS.css' %}"/>
+    {% block css  %}
+
+    {% endblock %}
+        
+</head>
+
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script> 
+    <!-- Separado por tiras -->
+<div class="row">
+<!------------------------------------------------------------->        <!-- Barra inicial -->
+    <div class="start_image">
+        <img src="{%static 'imagens/starting_image.png' %}" alt="OGAUC">
+    </div>
+<!------------------------------------------------------------->       <!-- Barra de pesquisa --> 
+    <div class="header_1" id="header">
+        <!-- Lista com os links col-1 significa que ocupa 1 coluna de espaço, col-2 ocupa 2 etc -->
+        <ul class="header_list">
+        
+            <li class="col-2"> <a href="/">Home</a> </li>
+
+
+            <li class="col-2"> 
+            <a href="/solarData/">Solar Data</a> 
+            </li>
+
+            <li class="col-3 dropdown"> 
+            <a href="/geomagneticData/" class="dropbtn">Geomagnetic Data</a> 
+            <div class="dropdown-content">
+                <a href="/geomagneticData/coistation">COI Station (Coimbra)</a>
+                <a href="/geomagneticData/hdzcomponents">HDZ Components</a>
+                <a href="/geomagneticData/shorttermvariability">Short Term Variability</a>
+                <a href="/geomagneticData/dailyvariation">Daily Variation</a>
+                <a href="/geomagneticData/localkindices">Local K Indices</a>
+                <a href="/geomagneticData/monthlyreport">Monthly Report</a>
+            </div>
+            </li>
+
+            <li class="col-3"> 
+            <a href="/meteorologicData/">Meteorologic Data</a> 
+            </li>
+
+            <li class="col-3">
+            <a href="/seismologicData/">Seismologic Data</a> 	
+            </li>
+
+            <li class="col-2 dropdown">
+            <a href="/outreach/" class="dropbtn">Outreach</a>
+            <div class="dropdown-content">
+                <a href="/outreach/glossary">Glossary</a>
+                <a href="/outreach/research">Research</a>	
+                <a href="/outreach/contacts">Contacts</a>	
+                <a href="/outreach/links">Links</a>	
+            </div>
+            </li>
+        </ul>
+    </div>
+<!--------------------------------------------------------------- (JavaScript) Barra de pesquisa sticky-->
+    <script>
+        window.onscroll = function() {stickFunction()};
+
+        var header = document.getElementById("header");
+        var sticky = header.offsetTop;
+
+        function stickFunction() {
+            if (window.pageYOffset > sticky) {
+                    header.classList.add("sticky");
+            } else {
+                    header.classList.remove("sticky");
+            }
+        }
+    </script>
+<!------------------------------------------------------------->
+<!-- Texto e imagem de apresentação -->
+
+<div class="content">
+   {% block content %}
+   
+   {% endblock %}
+</div>
+
+<br>
+<footer class="footer">
+    Propriedade do Observatório Geofísico e Astronómico da Universidade de Coimbra
+</footer>
+</div>
+</body>
+
+</html>

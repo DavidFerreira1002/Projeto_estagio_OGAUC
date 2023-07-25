@@ -1,0 +1,44 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/dailyvariationCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div>
+        <div class="txt_img_table">
+        <div>
+        <h2>Coimbra daily variation</h2>
+        <p>
+            <table >
+                <tr>
+                    <td>Coimbra daily variation</td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_QDx.png">
+                        <figcaption>North-South (X)</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_QDy.png">
+                        <figcaption>East-West (Y)</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_QDz.png" styles="width:30vw">
+                        <figcaption>Vertical (Z)</figcaption>
+                        </figure></td>
+                </tr>
+            </table>
+        <p>     
+        Daily variation of the horizontal components of the geomagnetic field measured at the Coimbra geomagnetic station. Values based on the magnetic field measurements made during the five most geomagnetically quiet international days (QD) of the previous month (according the classification of GFZ-Potsdam). At intermediate latitudes the vertical component (Z) of the geomagnetic field is particularly sensitive to oceanic currents. On the other hand, from the two components of the magnetic field, the East-West component (Y) is more robust to geomagnetic activity than the North-South component (X), being a better indicator of the daily variation of Earth's magnetic field.
+        If you use our data please make reference to "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available through the Space Weather Service SPINLab (home) from Centro de Investigação da Terra e do Espaço da Universidade de Coimbra".
+        </p>
+        </p>
+        
+    </div>
+    </div>
+{%endblock%} 
