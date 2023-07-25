@@ -1,0 +1,19 @@
+.txt_graph_table .graph{
+    width:auto;
+    height: auto;
+}
+
+.txt_graph_table td{
+    text-align: right;
+    font: bold;
+    font-size: 1.5vw;
+}
+
+.txt_graph_table::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.txt_graph_table table tr td p {
+    font-size: 1.40vw;
+}

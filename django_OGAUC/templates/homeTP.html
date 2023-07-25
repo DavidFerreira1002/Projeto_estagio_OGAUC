@@ -1,0 +1,19 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/homeCSS.css' %}">
+{% endblock %}
+{% block content%}
+<div class="txt_img_right">
+    <div>
+        <h2> OGAUC - Home </h2>       
+    </div>
+    <div class="col-5">
+    <p>The observatory conducts research in astronomy and astrophysics, geophysics and geology, solar physics and spacial meteorology, space erosion, planetary sciences and the history of science. <br> The collected data is open for the public to see, in this website and others. <br> The observatory also has a museum with vast celestial and geological instruments, most from the XVIII and XIX century. <br> On the right is a satellite image of the observatory, located at 40.19899, -8.44277. </p>
+    </div>
+    <div class="col-10 txt_img_right">
+        <img  src="{%static 'imagens/ogauc_satelite.png'%}" alt="OGAUC Satellite Image"> 
+    </div>
+</div>    
+{%endblock%}    

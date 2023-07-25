@@ -1,0 +1,43 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/shorttermvariabilityCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div>
+        <div class="txt_img_table">
+        <div>
+        <h2>Rate of change of the magnetic field at Coimbra</h2>
+        <p>
+            <table >
+                <tr>
+                    <td>Rate of change of the horizontal components</td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_dH.png">
+                        <figcaption>dH/dt</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_dX.png">
+                        <figcaption>dX/dt</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_dY.png" styles="width:30vw">
+                        <figcaption>dY/dt</figcaption>
+                        </figure></td>
+                </tr>
+            </table>
+        <p>     
+        Rate of change (dB/dt) of the of the horizontal components of the geomagnetic field measured by the COI station. If you use our data please make reference to: "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available by Centro de Investigação da Terra e do Espaço da Universidade de Coimbra, through the Space Weather service SPINLab (Space-Planetary Interactions Monitoring and Forecasting Laboratory)". 
+        </p>
+        </p>
+        
+    </div>
+    </div>
+{%endblock%} 

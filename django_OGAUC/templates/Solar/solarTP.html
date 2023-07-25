@@ -1,0 +1,63 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+{%get_media_prefix%}
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Solar/solarCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div class="txt_img_table">
+        <div>
+        <h2>OGAUC observations</h2>
+        <p>
+            <table >
+                <tr>
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.HA}}"><img src="{%get_media_prefix%}{{solar_images.HA}}"></a>
+                        <figcaption>Hα line</figcaption>
+                        </figure></td>
+
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.HAZ}}"><img src="{%get_media_prefix%}{{solar_images.HAZ}}"></a>
+                        <figcaption>Prominences in Hα</figcaption>
+                        </figure></td>
+                
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.CN}}"><img src="{%get_media_prefix%}{{solar_images.CN}}"></a>
+                        <figcaption>Hα continuum</figcaption>
+                        </figure></td>
+                
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.DOP}}"><img src="{%get_media_prefix%}{{solar_images.DOP}}"></a>
+                        <figcaption>Dopplergram</figcaption>
+                        </figure></td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.K1}}"><img src="{%get_media_prefix%}{{solar_images.K1}}"></a>
+                        <figcaption>Ca K1v line</figcaption>
+                        </figure></td>
+                
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.K3}}"><img src="{%get_media_prefix%}{{solar_images.K3}}"></a>
+                        <figcaption>Ca K3 line</figcaption>
+                        </figure></td>
+                
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.CNspots}}"><img src="{%get_media_prefix%}{{solar_images.CNspots}}"></a>
+                        <figcaption>Sunspots</figcaption>
+                        </figure></td>
+                
+                    <td><figure>
+                        <a href="{%get_media_prefix%}{{solar_images.K3fac}}"><img src="{%get_media_prefix%}{{solar_images.K3fac}}" ></a>
+                        <figcaption>Plages</figcaption>
+                        </figure></td>
+                </tr>
+            </table> 
+        <p>    
+        Observations taken at Observatório Geofísico e Astronómico da Universidade de Coimbra's (OGAUC) spectroheliograph. This instrument is identical to the one still working at the Paris Observatory (in Meudon). In 1926 it began the regular observations of the Sun in the CaII K3 and K1v bands. H-alpha line observations and Dopplergrams started, respectively, in 1989 and 2009. In 2007 it was installed a CCD camera. Additionally it is presented the identification of active regions present in those images. Here can be found not only the solar observations of OGAUC's spactroheliograph but also the identification of solar active regions present in those images. Previous observations are available on our database section. Older data can be found at OGAUC's webpage. If you use our data please make reference to: "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available by Centro de Investigação da Terra e do Espaço da Universidade de Coimbra, through the Space Weather service SPINLab (Space-Planetary Interactions Monitoring and Forecasting Laboratory)". 
+        </p>
+        </p>
+        
+    </div>
+
+{%endblock%} 

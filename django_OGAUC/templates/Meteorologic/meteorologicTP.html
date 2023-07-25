@@ -1,0 +1,168 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Meteorologic/meteorologicCSS.css' %}">
+{% endblock %}
+{% block content%}
+<div>
+    <div class="txt_graph_table">
+        <h2>Coimbra meterological observations</h2>
+            <table >
+                <tr>
+                    <td class="col-4"><p> 
+                        Average, maximum and minimum temperature from the last 90 days.
+                    </p></td>   
+                    <td class="col-9"><div class="graph"><canvas id="Temperature"></canvas></div></td>   
+                </tr>
+                <tr>
+                    <td class="col-4"><p>
+                        Humidity from the last 90 days.
+                    </p></td>
+                    <td class="col-9"><div class="graph"><canvas id="Humidade"></canvas></div></td>
+                </tr>
+                <tr>
+                    <td class="col-4"><p>
+                        Pressure in Coimbra and the pressure at sea level from the last 90 days.
+                    </p></td>    
+                    <td class="col-9"><div class="graph"><canvas id="Pressao/Pnmm"></canvas></div></td>
+                </tr>
+                <tr>
+                    <td class="col-4"><p>
+                        Total precipitation in the last 90 days.
+                    </p></td>
+                    <td class="col-9"><div class="graph"><canvas id="Precipitacao Total"></canvas></div></td>
+                </tr>
+            </table>
+        
+    </div>
+</div>
+
+<script>
+    /* Graph Temperature */
+    var ctx_temp = document.getElementById('Temperature').getContext('2d');
+    var tempChart = new Chart(ctx_temp, {
+        type: 'line',
+        data: { 
+            labels:{{ temperatura.timestamp|safe }},
+            datasets: [{
+                label:'Temperature Average (°C)',
+                data: {{ temperatura.temp_avg }},
+                backgroundColor: [
+                        'rgba(20, 200, 20, 0.4)'
+                    ],
+                borderColor: [
+                        'rgba(20,200,20,1)'
+                    ]
+
+            },{
+                label:'Temperature Max (°C)',
+                data: {{ temperatura.temp_max }},
+                backgroundColor: [
+                        'rgba(200, 20, 20, 0.2)'
+                    ],
+                borderColor: [
+                        'rgba(200, 20, 20, 1)'
+                    ]
+
+            },{
+                label:'Temperature Min (°C)',
+                data: {{ temperatura.temp_min }},
+                backgroundColor: [
+                        'rgba(0, 0, 200, 0.9)'
+                    ],
+                borderColor: [
+                        'rgba(0, 0, 0, 1)'
+                    ]
+            }
+            ]
+        }, 
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+
+    });
+
+    /* Graph Humidity */
+
+    var ctx_hrel = document.getElementById('Humidade').getContext('2d');
+    var hrel_chart = new Chart(ctx_hrel, {
+        type: 'line',
+        data: { 
+            labels:{{ humidade.timestamp|safe }},
+            datasets: [{
+                label:'Humidity Average(%)',
+                data: {{ humidade.hrel_avg }},
+                backgroundColor: [
+                        'rgba(20, 20, 200, 0.4)'
+                    ],
+                borderColor: [
+                        'rgba(20,20,200,1)'
+                    ]
+
+            }
+            ]
+        },
+    });
+
+    /* Graph Pression */
+
+    var ctx_pressao = document.getElementById('Pressao/Pnmm').getContext('2d');
+    var pressao_chart = new Chart(ctx_pressao, {
+        type: 'line',
+        data: { 
+            labels:{{ pressao.timestamp|safe }},
+            datasets: [{
+                label:'Pressure (hPa)',
+                data: {{ pressao.pressao_avg }},
+                backgroundColor: [
+                        'rgba(200, 20, 20, 0.9)'
+                    ],
+                borderColor: [
+                        'rgba(200,200,200,1)'
+                    ]
+
+            },{
+                label:'Pnmm (hPa)',
+                data: {{ pressao.pnmm_avg }},
+                backgroundColor: [
+                        'rgba(20, 200, 20, 0.4)'
+                    ],
+                borderColor: [
+                        'rgba(20,200,20,1)'
+                    ]
+
+            }
+            ]
+        }
+    });
+
+    /* Graph Precip Tot */
+
+    var ctx_precip_tot = document.getElementById('Precipitacao Total').getContext('2d');
+    var precip_tot_chart = new Chart(ctx_precip_tot, {
+        type: 'line',
+        data: { 
+            labels:{{ precip_tot.timestamp|safe }},
+            datasets: [{
+                label:'Total Precipitation (mm)',
+                data: {{ precip_tot.precip_tot }},
+                backgroundColor: [
+                        'rgba(20, 20, 200, 0.4)'
+                    ],
+                borderColor: [
+                        'rgba(20,20,200,1)'
+                    ]
+
+            }
+            ]
+        },
+    });
+
+</script> 
+
+{% endblock %} 

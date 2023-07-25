@@ -1,0 +1,12 @@
+.txt_img_right img{
+    float:right;
+    width: 70vw;
+}
+.txt_img_right::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.txt_img_right p {
+    font-size: 1.5vw;
+}

@@ -1,0 +1,31 @@
+{% extends 'baseTP.html' %}
+{%load static%}
+
+{% block css %}
+    <link rel="stylesheet" href="{%static 'styles/Geomagnetic/localkindicesCSS.css' %}">
+{% endblock %}
+{% block content%}
+    <div>
+        <div class="txt_img_table">
+        <div>
+        <h2>Coimbra's local indices</h2>
+        <p>
+            <table >
+                <tr>
+                    <td>Local K index</td>
+                </tr>
+                <tr>
+                    <td><figure>
+                        <img src="http://www.mat.uc.pt/~obsv/SPINLab/DATA_MAGNETIC/magData_Kcoi.png">
+                        <figcaption>Kcoi</figcaption>
+                        </figure></td>
+                </tr>
+            </table>
+        <p>     
+        Local geomagnetic K indices for Coimbra's COI station. Computations carried out using the Fortran program developed by P. McFadden (Australian Geological Survey Organisation), based on L. Hakkinen's (Finnish Meteoroological Institute - FMI) for the determination of K indices using FMI's method. The data presented here are provisiory as the final calibration of geomagnetic observations is only achieved in the following year. If you use our data please make reference to: "data from Observatório Geofísico e Astronómico da Universidade de Coimbra, made available by Centro de Investigação da Terra e do Espaço da Universidade de Coimbra, through the Space Weather service SPINLab (Space-Planetary Interactions Monitoring and Forecasting Laboratory)".
+        </p>
+        </p>
+        
+    </div>
+    </div>
+{%endblock%} 

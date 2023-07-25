@@ -1,0 +1,19 @@
+.txt_img_right img{
+    float:right;
+    margin-left:3vw;
+}
+.txt_img_right::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.txt_img_left img{
+    float:left;
+    margin-left:3vw;
+}
+.txt_img_left::after{
+    content: "";
+    clear: both;
+    display: table;
+}
