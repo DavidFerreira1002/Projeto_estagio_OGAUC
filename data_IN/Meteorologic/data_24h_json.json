@@ -1,0 +1,6152 @@
+[
+  {
+    "timestamp": "2019-10-03 00:00:00",
+    "temp_avg": "18.18",
+    "temp_max": "24.43",
+    "temp_min": "14.43",
+    "hrel_avg": "67.57",
+    "pressao_avg": "1006.047",
+    "pnmm_avg": "1022.834",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-04 00:00:00",
+    "temp_avg": "18.59",
+    "temp_max": "25.75",
+    "temp_min": "12.25",
+    "hrel_avg": "73.78",
+    "pressao_avg": "1006.654",
+    "pnmm_avg": "1023.428",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-05 00:00:00",
+    "temp_avg": "19.06",
+    "temp_max": "24.65",
+    "temp_min": "15.9",
+    "hrel_avg": "78.56",
+    "pressao_avg": "1004.686",
+    "pnmm_avg": "1021.398",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-06 00:00:00",
+    "temp_avg": "17.15",
+    "temp_max": "24.52",
+    "temp_min": "12.55",
+    "hrel_avg": "76.5",
+    "pressao_avg": "1004.842",
+    "pnmm_avg": "1021.669",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-07 00:00:00",
+    "temp_avg": "18.1",
+    "temp_max": "27.29",
+    "temp_min": "11.49",
+    "hrel_avg": "75.69",
+    "pressao_avg": "1006.948",
+    "pnmm_avg": "1023.757",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-08 00:00:00",
+    "temp_avg": "18.31",
+    "temp_max": "27.44",
+    "temp_min": "14.18",
+    "hrel_avg": "79.55",
+    "pressao_avg": "1006.11",
+    "pnmm_avg": "1022.892",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-09 00:00:00",
+    "temp_avg": "19.07",
+    "temp_max": "27.38",
+    "temp_min": "14.82",
+    "hrel_avg": "81",
+    "pressao_avg": "1005.066",
+    "pnmm_avg": "1021.785",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-10 00:00:00",
+    "temp_avg": "16.98",
+    "temp_max": "23.9",
+    "temp_min": "12.17",
+    "hrel_avg": "71.49",
+    "pressao_avg": "1005.783",
+    "pnmm_avg": "1022.635",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-11 00:00:00",
+    "temp_avg": "18.57",
+    "temp_max": "29.21",
+    "temp_min": "10.63",
+    "hrel_avg": "64.74",
+    "pressao_avg": "1003.733",
+    "pnmm_avg": "1020.464",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-12 00:00:00",
+    "temp_avg": "18.89",
+    "temp_max": "28.37",
+    "temp_min": "12.01",
+    "hrel_avg": "68.46",
+    "pressao_avg": "1002.244",
+    "pnmm_avg": "1018.928",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-13 00:00:00",
+    "temp_avg": "19.71",
+    "temp_max": "25.27",
+    "temp_min": "16.09",
+    "hrel_avg": "71.16",
+    "pressao_avg": "998.7202",
+    "pnmm_avg": "1015.296",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-14 00:00:00",
+    "temp_avg": "19.5",
+    "temp_max": "25.06",
+    "temp_min": "15.54",
+    "hrel_avg": "77.61",
+    "pressao_avg": "997.2817",
+    "pnmm_avg": "1013.845",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-15 00:00:00",
+    "temp_avg": "14.63",
+    "temp_max": "18.12",
+    "temp_min": "11.39",
+    "hrel_avg": "83.7",
+    "pressao_avg": "1000.369",
+    "pnmm_avg": "1017.267",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-16 00:00:00",
+    "temp_avg": "14.71",
+    "temp_max": "20.67",
+    "temp_min": "9.92",
+    "hrel_avg": "75.38",
+    "pressao_avg": "1006.951",
+    "pnmm_avg": "1023.958",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-17 00:00:00",
+    "temp_avg": "16.53",
+    "temp_max": "19.88",
+    "temp_min": "13.15",
+    "hrel_avg": "73.31",
+    "pressao_avg": "1004.269",
+    "pnmm_avg": "1021.121",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-18 00:00:00",
+    "temp_avg": "17.85",
+    "temp_max": "21.08",
+    "temp_min": "14.71",
+    "hrel_avg": "94.2",
+    "pressao_avg": "1002.394",
+    "pnmm_avg": "1019.138",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-19 00:00:00",
+    "temp_avg": "16.24",
+    "temp_max": "20.23",
+    "temp_min": "13.41",
+    "hrel_avg": "83.8",
+    "pressao_avg": "1002.767",
+    "pnmm_avg": "1019.61",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-20 00:00:00",
+    "temp_avg": "14.91",
+    "temp_max": "17.97",
+    "temp_min": "12.14",
+    "hrel_avg": "88.9",
+    "pressao_avg": "993.3141",
+    "pnmm_avg": "1010.076",
+    "precip_tot": "3.9"
+  },
+  {
+    "timestamp": "2019-10-21 00:00:00",
+    "temp_avg": "13.71",
+    "temp_max": "18.86",
+    "temp_min": "10.64",
+    "hrel_avg": "81.1",
+    "pressao_avg": "999.2898",
+    "pnmm_avg": "1016.225",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2019-10-22 00:00:00",
+    "temp_avg": "12.32",
+    "temp_max": "19.61",
+    "temp_min": "7.844",
+    "hrel_avg": "81.4",
+    "pressao_avg": "1003.114",
+    "pnmm_avg": "1020.199",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-23 00:00:00",
+    "temp_avg": "13.49",
+    "temp_max": "20.43",
+    "temp_min": "8.63",
+    "hrel_avg": "70.22",
+    "pressao_avg": "1000.089",
+    "pnmm_avg": "1017.053",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-24 00:00:00",
+    "temp_avg": "13.37",
+    "temp_max": "17.28",
+    "temp_min": "9.73",
+    "hrel_avg": "80.9",
+    "pressao_avg": "998.4081",
+    "pnmm_avg": "1015.348",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-25 00:00:00",
+    "temp_avg": "14.57",
+    "temp_max": "20.26",
+    "temp_min": "10",
+    "hrel_avg": "79.82",
+    "pressao_avg": "1006.31",
+    "pnmm_avg": "1023.313",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-26 00:00:00",
+    "temp_avg": "16.71",
+    "temp_max": "26.55",
+    "temp_min": "9.25",
+    "hrel_avg": "70.13",
+    "pressao_avg": "1006.164",
+    "pnmm_avg": "1023.043",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-27 00:00:00",
+    "temp_avg": "17.19",
+    "temp_max": "26.9",
+    "temp_min": "11.1",
+    "hrel_avg": "70.37",
+    "pressao_avg": "1004.206",
+    "pnmm_avg": "1021.021",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-10-28 00:00:00",
+    "temp_avg": "17.07",
+    "temp_max": "21.82",
+    "temp_min": "13.72",
+    "hrel_avg": "75.09",
+    "pressao_avg": "1003.374",
+    "pnmm_avg": "1020.18",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2019-10-29 00:00:00",
+    "temp_avg": "17.61",
+    "temp_max": "21.18",
+    "temp_min": "14.87",
+    "hrel_avg": "85.7",
+    "pressao_avg": "1002.647",
+    "pnmm_avg": "1019.407",
+    "precip_tot": "1.4"
+  },
+  {
+    "timestamp": "2019-10-30 00:00:00",
+    "temp_avg": "18.02",
+    "temp_max": "21.24",
+    "temp_min": "15.09",
+    "hrel_avg": "89.9",
+    "pressao_avg": "1004.254",
+    "pnmm_avg": "1021.018",
+    "precip_tot": "6.2"
+  },
+  {
+    "timestamp": "2019-10-31 00:00:00",
+    "temp_avg": "18.51",
+    "temp_max": "19.95",
+    "temp_min": "16.77",
+    "hrel_avg": "94.9",
+    "pressao_avg": "1007.348",
+    "pnmm_avg": "1024.135",
+    "precip_tot": "5.9"
+  },
+  {
+    "timestamp": "2019-11-01 00:00:00",
+    "temp_avg": "18.6",
+    "temp_max": "19.82",
+    "temp_min": "17.28",
+    "hrel_avg": "97.8",
+    "pressao_avg": "1010.461",
+    "pnmm_avg": "1027.294",
+    "precip_tot": "7.6"
+  },
+  {
+    "timestamp": "2019-11-02 00:00:00",
+    "temp_avg": "18.98",
+    "temp_max": "19.96",
+    "temp_min": "18.29",
+    "hrel_avg": "96.8",
+    "pressao_avg": "1007.28",
+    "pnmm_avg": "1024.038",
+    "precip_tot": "10.3"
+  },
+  {
+    "timestamp": "2019-11-03 00:00:00",
+    "temp_avg": "17.11",
+    "temp_max": "19.14",
+    "temp_min": "15.31",
+    "hrel_avg": "94.3",
+    "pressao_avg": "998.1715",
+    "pnmm_avg": "1014.886",
+    "precip_tot": "33.5"
+  },
+  {
+    "timestamp": "2019-11-04 00:00:00",
+    "temp_avg": "16.59",
+    "temp_max": "20.22",
+    "temp_min": "14.37",
+    "hrel_avg": "87.8",
+    "pressao_avg": "998.7885",
+    "pnmm_avg": "1015.544",
+    "precip_tot": "5.3"
+  },
+  {
+    "timestamp": "2019-11-05 00:00:00",
+    "temp_avg": "14.81",
+    "temp_max": "17.37",
+    "temp_min": "11.99",
+    "hrel_avg": "94.4",
+    "pressao_avg": "998.4924",
+    "pnmm_avg": "1015.348",
+    "precip_tot": "12.9"
+  },
+  {
+    "timestamp": "2019-11-06 00:00:00",
+    "temp_avg": "13.68",
+    "temp_max": "17.4",
+    "temp_min": "11.2",
+    "hrel_avg": "88.1",
+    "pressao_avg": "1002.491",
+    "pnmm_avg": "1019.481",
+    "precip_tot": "5.8"
+  },
+  {
+    "timestamp": "2019-11-07 00:00:00",
+    "temp_avg": "13.61",
+    "temp_max": "16.22",
+    "temp_min": "10.7",
+    "hrel_avg": "94.9",
+    "pressao_avg": "1004.006",
+    "pnmm_avg": "1021.026",
+    "precip_tot": "7.7"
+  },
+  {
+    "timestamp": "2019-11-08 00:00:00",
+    "temp_avg": "12.35",
+    "temp_max": "16.05",
+    "temp_min": "9.2",
+    "hrel_avg": "86.1",
+    "pressao_avg": "1002.807",
+    "pnmm_avg": "1019.883",
+    "precip_tot": "4.2"
+  },
+  {
+    "timestamp": "2019-11-09 00:00:00",
+    "temp_avg": "10.62",
+    "temp_max": "16.07",
+    "temp_min": "7.381",
+    "hrel_avg": "80.7",
+    "pressao_avg": "1007.775",
+    "pnmm_avg": "1025.041",
+    "precip_tot": "2.9"
+  },
+  {
+    "timestamp": "2019-11-10 00:00:00",
+    "temp_avg": "10.69",
+    "temp_max": "14.88",
+    "temp_min": "7.159",
+    "hrel_avg": "93.4",
+    "pressao_avg": "1008.908",
+    "pnmm_avg": "1026.189",
+    "precip_tot": "6.7"
+  },
+  {
+    "timestamp": "2019-11-11 00:00:00",
+    "temp_avg": "11.14",
+    "temp_max": "13.65",
+    "temp_min": "9.59",
+    "hrel_avg": "92.8",
+    "pressao_avg": "1009.167",
+    "pnmm_avg": "1026.424",
+    "precip_tot": "4.5"
+  },
+  {
+    "timestamp": "2019-11-12 00:00:00",
+    "temp_avg": "12.97",
+    "temp_max": "16.53",
+    "temp_min": "9.88",
+    "hrel_avg": "93.3",
+    "pressao_avg": "1005.942",
+    "pnmm_avg": "1023.033",
+    "precip_tot": "4.2"
+  },
+  {
+    "timestamp": "2019-11-13 00:00:00",
+    "temp_avg": "11.51",
+    "temp_max": "14.75",
+    "temp_min": "6.722",
+    "hrel_avg": "91.8",
+    "pressao_avg": "1004.294",
+    "pnmm_avg": "1021.448",
+    "precip_tot": "1.3"
+  },
+  {
+    "timestamp": "2019-11-14 00:00:00",
+    "temp_avg": "14.63",
+    "temp_max": "17.47",
+    "temp_min": "12.18",
+    "hrel_avg": "89",
+    "pressao_avg": "1000.633",
+    "pnmm_avg": "1017.535",
+    "precip_tot": "8"
+  },
+  {
+    "timestamp": "2019-11-15 00:00:00",
+    "temp_avg": "10.37",
+    "temp_max": "13.39",
+    "temp_min": "7.777",
+    "hrel_avg": "89.1",
+    "pressao_avg": "996.2806",
+    "pnmm_avg": "1013.365",
+    "precip_tot": "13.8"
+  },
+  {
+    "timestamp": "2019-11-16 00:00:00",
+    "temp_avg": "8.47",
+    "temp_max": "12.76",
+    "temp_min": "5.954",
+    "hrel_avg": "76.05",
+    "pressao_avg": "997.6928",
+    "pnmm_avg": "1014.918",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2019-11-17 00:00:00",
+    "temp_avg": "8.15",
+    "temp_max": "14.52",
+    "temp_min": "2.651",
+    "hrel_avg": "79.68",
+    "pressao_avg": "1003.732",
+    "pnmm_avg": "1021.083",
+    "precip_tot": "0.7"
+  },
+  {
+    "timestamp": "2019-11-18 00:00:00",
+    "temp_avg": "10.82",
+    "temp_max": "14.42",
+    "temp_min": "8.18",
+    "hrel_avg": "97.4",
+    "pressao_avg": "1001.169",
+    "pnmm_avg": "1018.31",
+    "precip_tot": "13.9"
+  },
+  {
+    "timestamp": "2019-11-19 00:00:00",
+    "temp_avg": "9.67",
+    "temp_max": "15.79",
+    "temp_min": "5.784",
+    "hrel_avg": "86.2",
+    "pressao_avg": "1004.087",
+    "pnmm_avg": "1021.349",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-11-20 00:00:00",
+    "temp_avg": "8.64",
+    "temp_max": "12.4",
+    "temp_min": "5.22",
+    "hrel_avg": "91.2",
+    "pressao_avg": "1001.81",
+    "pnmm_avg": "1019.096",
+    "precip_tot": "1.4"
+  },
+  {
+    "timestamp": "2019-11-21 00:00:00",
+    "temp_avg": "11.1",
+    "temp_max": "15.51",
+    "temp_min": "9.97",
+    "hrel_avg": "90.3",
+    "pressao_avg": "994.0291",
+    "pnmm_avg": "1011.03",
+    "precip_tot": "10.3"
+  },
+  {
+    "timestamp": "2019-11-22 00:00:00",
+    "temp_avg": "12.34",
+    "temp_max": "16.19",
+    "temp_min": "10.58",
+    "hrel_avg": "90.8",
+    "pressao_avg": "992.3993",
+    "pnmm_avg": "1009.298",
+    "precip_tot": "1.5"
+  },
+  {
+    "timestamp": "2019-11-23 00:00:00",
+    "temp_avg": "12.96",
+    "temp_max": "15.65",
+    "temp_min": "10.86",
+    "hrel_avg": "95.1",
+    "pressao_avg": "982.8758",
+    "pnmm_avg": "999.576",
+    "precip_tot": "30.2"
+  },
+  {
+    "timestamp": "2019-11-24 00:00:00",
+    "temp_avg": "11.49",
+    "temp_max": "15.67",
+    "temp_min": "8.91",
+    "hrel_avg": "86.5",
+    "pressao_avg": "995.4435",
+    "pnmm_avg": "1012.445",
+    "precip_tot": "4.3"
+  },
+  {
+    "timestamp": "2019-11-25 00:00:00",
+    "temp_avg": "12.29",
+    "temp_max": "16.1",
+    "temp_min": "8.71",
+    "hrel_avg": "93.7",
+    "pressao_avg": "1001.25",
+    "pnmm_avg": "1018.304",
+    "precip_tot": "8"
+  },
+  {
+    "timestamp": "2019-11-26 00:00:00",
+    "temp_avg": "15.97",
+    "temp_max": "18.86",
+    "temp_min": "14.66",
+    "hrel_avg": "93.9",
+    "pressao_avg": "1001.202",
+    "pnmm_avg": "1018.034",
+    "precip_tot": "3"
+  },
+  {
+    "timestamp": "2019-11-27 00:00:00",
+    "temp_avg": "15.7",
+    "temp_max": "18.79",
+    "temp_min": "13.02",
+    "hrel_avg": "95.5",
+    "pressao_avg": "997.36",
+    "pnmm_avg": "1014.144",
+    "precip_tot": "15.8"
+  },
+  {
+    "timestamp": "2019-11-28 00:00:00",
+    "temp_avg": "13.58",
+    "temp_max": "15.5",
+    "temp_min": "12.16",
+    "hrel_avg": "92.4",
+    "pressao_avg": "999.9498",
+    "pnmm_avg": "1016.903",
+    "precip_tot": "1"
+  },
+  {
+    "timestamp": "2019-11-29 00:00:00",
+    "temp_avg": "15.28",
+    "temp_max": "17.76",
+    "temp_min": "12.88",
+    "hrel_avg": "92.1",
+    "pressao_avg": "1002.098",
+    "pnmm_avg": "1018.986",
+    "precip_tot": "4.1"
+  },
+  {
+    "timestamp": "2019-11-30 00:00:00",
+    "temp_avg": "16.07",
+    "temp_max": "17.76",
+    "temp_min": "14.76",
+    "hrel_avg": "96.8",
+    "pressao_avg": "1005.51",
+    "pnmm_avg": "1022.408",
+    "precip_tot": "19.8"
+  },
+  {
+    "timestamp": "2019-12-01 00:00:00",
+    "temp_avg": "14.35",
+    "temp_max": "16.29",
+    "temp_min": "11.73",
+    "hrel_avg": "96.1",
+    "pressao_avg": "1004.275",
+    "pnmm_avg": "1021.255",
+    "precip_tot": "18.7"
+  },
+  {
+    "timestamp": "2019-12-02 00:00:00",
+    "temp_avg": "11.99",
+    "temp_max": "14.71",
+    "temp_min": "9.03",
+    "hrel_avg": "91.6",
+    "pressao_avg": "997.0744",
+    "pnmm_avg": "1014.074",
+    "precip_tot": "8.8"
+  },
+  {
+    "timestamp": "2019-12-03 00:00:00",
+    "temp_avg": "11.42",
+    "temp_max": "16.08",
+    "temp_min": "7.71",
+    "hrel_avg": "65.72",
+    "pressao_avg": "1001.404",
+    "pnmm_avg": "1018.513",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-04 00:00:00",
+    "temp_avg": "9.58",
+    "temp_max": "14.59",
+    "temp_min": "6.757",
+    "hrel_avg": "61.48",
+    "pressao_avg": "1001.275",
+    "pnmm_avg": "1018.494",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-05 00:00:00",
+    "temp_avg": "9.41",
+    "temp_max": "14.88",
+    "temp_min": "5.114",
+    "hrel_avg": "74.16",
+    "pressao_avg": "998.2504",
+    "pnmm_avg": "1015.428",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-06 00:00:00",
+    "temp_avg": "11.96",
+    "temp_max": "17.21",
+    "temp_min": "7.271",
+    "hrel_avg": "66.49",
+    "pressao_avg": "1003.511",
+    "pnmm_avg": "1020.623",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-07 00:00:00",
+    "temp_avg": "11.7",
+    "temp_max": "17.35",
+    "temp_min": "8.15",
+    "hrel_avg": "73.6",
+    "pressao_avg": "1008.374",
+    "pnmm_avg": "1025.585",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-08 00:00:00",
+    "temp_avg": "10.44",
+    "temp_max": "16.39",
+    "temp_min": "6.173",
+    "hrel_avg": "86.9",
+    "pressao_avg": "1010.852",
+    "pnmm_avg": "1028.184",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-09 00:00:00",
+    "temp_avg": "12.22",
+    "temp_max": "15.07",
+    "temp_min": "8.99",
+    "hrel_avg": "98.1",
+    "pressao_avg": "1012.513",
+    "pnmm_avg": "1029.762",
+    "precip_tot": "2.1"
+  },
+  {
+    "timestamp": "2019-12-10 00:00:00",
+    "temp_avg": "12.44",
+    "temp_max": "16.32",
+    "temp_min": "8.84",
+    "hrel_avg": "92.4",
+    "pressao_avg": "1016.704",
+    "pnmm_avg": "1034.011",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-11 00:00:00",
+    "temp_avg": "10.76",
+    "temp_max": "15.91",
+    "temp_min": "7.606",
+    "hrel_avg": "83.2",
+    "pressao_avg": "1014.335",
+    "pnmm_avg": "1031.706",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-12 00:00:00",
+    "temp_avg": "10.73",
+    "temp_max": "13.51",
+    "temp_min": "8.53",
+    "hrel_avg": "83.4",
+    "pressao_avg": "1014.209",
+    "pnmm_avg": "1031.578",
+    "precip_tot": "3.5"
+  },
+  {
+    "timestamp": "2019-12-13 00:00:00",
+    "temp_avg": "11.65",
+    "temp_max": "13.82",
+    "temp_min": "8.63",
+    "hrel_avg": "97.2",
+    "pressao_avg": "1009.701",
+    "pnmm_avg": "1026.937",
+    "precip_tot": "18.5"
+  },
+  {
+    "timestamp": "2019-12-14 00:00:00",
+    "temp_avg": "13.36",
+    "temp_max": "15.12",
+    "temp_min": "12.25",
+    "hrel_avg": "98.1",
+    "pressao_avg": "1008.193",
+    "pnmm_avg": "1025.298",
+    "precip_tot": "5.6"
+  },
+  {
+    "timestamp": "2019-12-15 00:00:00",
+    "temp_avg": "13.28",
+    "temp_max": "16.01",
+    "temp_min": "11.75",
+    "hrel_avg": "92",
+    "pressao_avg": "1005.894",
+    "pnmm_avg": "1022.966",
+    "precip_tot": "1"
+  },
+  {
+    "timestamp": "2019-12-16 00:00:00",
+    "temp_avg": "13.24",
+    "temp_max": "15.74",
+    "temp_min": "11.77",
+    "hrel_avg": "90.4",
+    "pressao_avg": "996.8582",
+    "pnmm_avg": "1013.779",
+    "precip_tot": "5.3"
+  },
+  {
+    "timestamp": "2019-12-17 00:00:00",
+    "temp_avg": "10.88",
+    "temp_max": "13.14",
+    "temp_min": "8.06",
+    "hrel_avg": "97.3",
+    "pressao_avg": "983.4938",
+    "pnmm_avg": "1000.328",
+    "precip_tot": "27.4"
+  },
+  {
+    "timestamp": "2019-12-18 00:00:00",
+    "temp_avg": "9.33",
+    "temp_max": "13.96",
+    "temp_min": "5.117",
+    "hrel_avg": "80.6",
+    "pressao_avg": "994.5804",
+    "pnmm_avg": "1011.699",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-19 00:00:00",
+    "temp_avg": "13.36",
+    "temp_max": "15.71",
+    "temp_min": "9.67",
+    "hrel_avg": "88.7",
+    "pressao_avg": "997.2058",
+    "pnmm_avg": "1014.126",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-20 00:00:00",
+    "temp_avg": "14.91",
+    "temp_max": "16.08",
+    "temp_min": "12.54",
+    "hrel_avg": "95.2",
+    "pressao_avg": "988.0001",
+    "pnmm_avg": "1004.673",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-21 00:00:00",
+    "temp_avg": "14.07",
+    "temp_max": "16.12",
+    "temp_min": "12.13",
+    "hrel_avg": "98.7",
+    "pressao_avg": "987.3565",
+    "pnmm_avg": "1004.067",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-22 00:00:00",
+    "temp_avg": "15.69",
+    "temp_max": "17.09",
+    "temp_min": "14.52",
+    "hrel_avg": "89.4",
+    "pressao_avg": "994.7391",
+    "pnmm_avg": "1011.479",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-23 00:00:00",
+    "temp_avg": "14.29",
+    "temp_max": "16.75",
+    "temp_min": "10.4",
+    "hrel_avg": "91.4",
+    "pressao_avg": "1007.31",
+    "pnmm_avg": "1024.345",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-24 00:00:00",
+    "temp_avg": "11.19",
+    "temp_max": "14.75",
+    "temp_min": "7.672",
+    "hrel_avg": "94.3",
+    "pressao_avg": "1013.518",
+    "pnmm_avg": "1030.847",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-25 00:00:00",
+    "temp_avg": "14.36",
+    "temp_max": "19.61",
+    "temp_min": "9.08",
+    "hrel_avg": "79.45",
+    "pressao_avg": "1011.236",
+    "pnmm_avg": "1028.336",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-26 00:00:00",
+    "temp_avg": "16.44",
+    "temp_max": "20.57",
+    "temp_min": "13.27",
+    "hrel_avg": "64.2",
+    "pressao_avg": "1009.132",
+    "pnmm_avg": "1026.071",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-27 00:00:00",
+    "temp_avg": "12.87",
+    "temp_max": "17.28",
+    "temp_min": "9.69",
+    "hrel_avg": "82",
+    "pressao_avg": "1013.976",
+    "pnmm_avg": "1031.21",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-28 00:00:00",
+    "temp_avg": "12.13",
+    "temp_max": "17.45",
+    "temp_min": "9.35",
+    "hrel_avg": "66.34",
+    "pressao_avg": "1013.118",
+    "pnmm_avg": "1030.383",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-29 00:00:00",
+    "temp_avg": "11.63",
+    "temp_max": "17.21",
+    "temp_min": "7.433",
+    "hrel_avg": "58.63",
+    "pressao_avg": "1013.198",
+    "pnmm_avg": "1030.496",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-30 00:00:00",
+    "temp_avg": "12.7",
+    "temp_max": "19.58",
+    "temp_min": "8.65",
+    "hrel_avg": "56.96",
+    "pressao_avg": "1013.758",
+    "pnmm_avg": "1031.001",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2019-12-31 00:00:00",
+    "temp_avg": "10.74",
+    "temp_max": "18.72",
+    "temp_min": "5.517",
+    "hrel_avg": "74.02",
+    "pressao_avg": "1016.416",
+    "pnmm_avg": "1033.825",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-01 00:00:00",
+    "temp_avg": "9.34",
+    "temp_max": "15.07",
+    "temp_min": "4.729",
+    "hrel_avg": "86",
+    "pressao_avg": "1017.521",
+    "pnmm_avg": "1035.035",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-02 00:00:00",
+    "temp_avg": "8.13",
+    "temp_max": "15.71",
+    "temp_min": "3.248",
+    "hrel_avg": "85.3",
+    "pressao_avg": "1016.916",
+    "pnmm_avg": "1034.497",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-03 00:00:00",
+    "temp_avg": "7.935",
+    "temp_max": "11.85",
+    "temp_min": "2.306",
+    "hrel_avg": "85.2",
+    "pressao_avg": "1016.614",
+    "pnmm_avg": "1034.202",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-04 00:00:00",
+    "temp_avg": "12.65",
+    "temp_max": "18.52",
+    "temp_min": "8.71",
+    "hrel_avg": "79.24",
+    "pressao_avg": "1019.198",
+    "pnmm_avg": "1036.535",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-05 00:00:00",
+    "temp_avg": "10.84",
+    "temp_max": "14.35",
+    "temp_min": "8.46",
+    "hrel_avg": "77.54",
+    "pressao_avg": "1019.403",
+    "pnmm_avg": "1036.854",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-06 00:00:00",
+    "temp_avg": "8.95",
+    "temp_max": "13.2",
+    "temp_min": "5.662",
+    "hrel_avg": "71.3",
+    "pressao_avg": "1015.881",
+    "pnmm_avg": "1033.39",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-07 00:00:00",
+    "temp_avg": "7.45",
+    "temp_max": "13.7",
+    "temp_min": "2.905",
+    "hrel_avg": "78.56",
+    "pressao_avg": "1015.938",
+    "pnmm_avg": "1033.544",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-08 00:00:00",
+    "temp_avg": "7.729",
+    "temp_max": "14.52",
+    "temp_min": "3.42",
+    "hrel_avg": "76.83",
+    "pressao_avg": "1018.068",
+    "pnmm_avg": "1035.694",
+    "precip_tot": "1"
+  },
+  {
+    "timestamp": "2020-01-09 00:00:00",
+    "temp_avg": "8.73",
+    "temp_max": "15.85",
+    "temp_min": "2.341",
+    "hrel_avg": "70.95",
+    "pressao_avg": "1016.254",
+    "pnmm_avg": "1033.787",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-10 00:00:00",
+    "temp_avg": "10.03",
+    "temp_max": "14.47",
+    "temp_min": "6.762",
+    "hrel_avg": "82.7",
+    "pressao_avg": "1014.693",
+    "pnmm_avg": "1032.114",
+    "precip_tot": "0.6"
+  },
+  {
+    "timestamp": "2020-01-11 00:00:00",
+    "temp_avg": "8.73",
+    "temp_max": "14.69",
+    "temp_min": "3.13",
+    "hrel_avg": "80.6",
+    "pressao_avg": "1016.854",
+    "pnmm_avg": "1034.396",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-01-12 00:00:00",
+    "temp_avg": "9.33",
+    "temp_max": "16.78",
+    "temp_min": "4.363",
+    "hrel_avg": "68.41",
+    "pressao_avg": "1017.505",
+    "pnmm_avg": "1035.021",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-13 00:00:00",
+    "temp_avg": "7.581",
+    "temp_max": "16.01",
+    "temp_min": "2.017",
+    "hrel_avg": "77.31",
+    "pressao_avg": "1016.878",
+    "pnmm_avg": "1034.495",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-14 00:00:00",
+    "temp_avg": "7.484",
+    "temp_max": "12.31",
+    "temp_min": "2.171",
+    "hrel_avg": "81.3",
+    "pressao_avg": "1011.31",
+    "pnmm_avg": "1028.836",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-15 00:00:00",
+    "temp_avg": "12.18",
+    "temp_max": "14.97",
+    "temp_min": "10.75",
+    "hrel_avg": "77.72",
+    "pressao_avg": "1005.412",
+    "pnmm_avg": "1022.542",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-16 00:00:00",
+    "temp_avg": "14.42",
+    "temp_max": "17.11",
+    "temp_min": "12.05",
+    "hrel_avg": "88.4",
+    "pressao_avg": "1005.772",
+    "pnmm_avg": "1022.773",
+    "precip_tot": "2.1"
+  },
+  {
+    "timestamp": "2020-01-17 00:00:00",
+    "temp_avg": "13.94",
+    "temp_max": "15.89",
+    "temp_min": "11.46",
+    "hrel_avg": "86.1",
+    "pressao_avg": "1008.785",
+    "pnmm_avg": "1025.866",
+    "precip_tot": "5.3"
+  },
+  {
+    "timestamp": "2020-01-18 00:00:00",
+    "temp_avg": "12.72",
+    "temp_max": "17.59",
+    "temp_min": "9.95",
+    "hrel_avg": "81.4",
+    "pressao_avg": "1016.196",
+    "pnmm_avg": "1033.477",
+    "precip_tot": "1.8"
+  },
+  {
+    "timestamp": "2020-01-19 00:00:00",
+    "temp_avg": "12.91",
+    "temp_max": "15.48",
+    "temp_min": "10.89",
+    "hrel_avg": "92",
+    "pressao_avg": "1011.463",
+    "pnmm_avg": "1028.651",
+    "precip_tot": "7.6"
+  },
+  {
+    "timestamp": "2020-01-20 00:00:00",
+    "temp_avg": "11.44",
+    "temp_max": "16.25",
+    "temp_min": "7.365",
+    "hrel_avg": "63.99",
+    "pressao_avg": "1012.779",
+    "pnmm_avg": "1030.081",
+    "precip_tot": "0.5"
+  },
+  {
+    "timestamp": "2020-01-21 00:00:00",
+    "temp_avg": "7.679",
+    "temp_max": "11.17",
+    "temp_min": "5.974",
+    "hrel_avg": "44.58",
+    "pressao_avg": "1009.39",
+    "pnmm_avg": "1026.866",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-01-22 00:00:00",
+    "temp_avg": "8.86",
+    "temp_max": "14.01",
+    "temp_min": "5.545",
+    "hrel_avg": "56.47",
+    "pressao_avg": "1004.478",
+    "pnmm_avg": "1021.796",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-23 00:00:00",
+    "temp_avg": "10.42",
+    "temp_max": "13.84",
+    "temp_min": "8.73",
+    "hrel_avg": "64.68",
+    "pressao_avg": "1002.148",
+    "pnmm_avg": "1019.329",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-24 00:00:00",
+    "temp_avg": "9.84",
+    "temp_max": "13.39",
+    "temp_min": "8.15",
+    "hrel_avg": "76.7",
+    "pressao_avg": "1000.919",
+    "pnmm_avg": "1018.115",
+    "precip_tot": "0.4"
+  },
+  {
+    "timestamp": "2020-01-25 00:00:00",
+    "temp_avg": "11.09",
+    "temp_max": "14.59",
+    "temp_min": "8.06",
+    "hrel_avg": "75.5",
+    "pressao_avg": "1003.142",
+    "pnmm_avg": "1020.3",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-26 00:00:00",
+    "temp_avg": "11.33",
+    "temp_max": "17.04",
+    "temp_min": "7.269",
+    "hrel_avg": "75.03",
+    "pressao_avg": "1003.173",
+    "pnmm_avg": "1020.318",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-27 00:00:00",
+    "temp_avg": "10.17",
+    "temp_max": "15.86",
+    "temp_min": "5.801",
+    "hrel_avg": "85.2",
+    "pressao_avg": "1009.515",
+    "pnmm_avg": "1026.84",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-01-28 00:00:00",
+    "temp_avg": "12.79",
+    "temp_max": "15.69",
+    "temp_min": "11.04",
+    "hrel_avg": "91.9",
+    "pressao_avg": "1008.389",
+    "pnmm_avg": "1025.532",
+    "precip_tot": "2.9"
+  },
+  {
+    "timestamp": "2020-01-29 00:00:00",
+    "temp_avg": "14.23",
+    "temp_max": "15",
+    "temp_min": "13.55",
+    "hrel_avg": "96.6",
+    "pressao_avg": "1009.283",
+    "pnmm_avg": "1026.355",
+    "precip_tot": "9.1"
+  },
+  {
+    "timestamp": "2020-01-30 00:00:00",
+    "temp_avg": "14.05",
+    "temp_max": "16.39",
+    "temp_min": "12.79",
+    "hrel_avg": "91",
+    "pressao_avg": "1009.798",
+    "pnmm_avg": "1026.889",
+    "precip_tot": "0.5"
+  },
+  {
+    "timestamp": "2020-01-31 00:00:00",
+    "temp_avg": "13.59",
+    "temp_max": "14.8",
+    "temp_min": "12.35",
+    "hrel_avg": "92.9",
+    "pressao_avg": "1009.291",
+    "pnmm_avg": "1026.401",
+    "precip_tot": "1.4"
+  },
+  {
+    "timestamp": "2020-02-01 00:00:00",
+    "temp_avg": "15.06",
+    "temp_max": "16.8",
+    "temp_min": "13.7",
+    "hrel_avg": "96.4",
+    "pressao_avg": "1009.419",
+    "pnmm_avg": "1026.443",
+    "precip_tot": "6.5"
+  },
+  {
+    "timestamp": "2020-02-02 00:00:00",
+    "temp_avg": "15.98",
+    "temp_max": "18.72",
+    "temp_min": "14.76",
+    "hrel_avg": "95.9",
+    "pressao_avg": "1011.926",
+    "pnmm_avg": "1028.938",
+    "precip_tot": "5.1"
+  },
+  {
+    "timestamp": "2020-02-03 00:00:00",
+    "temp_avg": "17.46",
+    "temp_max": "24.03",
+    "temp_min": "13.27",
+    "hrel_avg": "83.1",
+    "pressao_avg": "1014.186",
+    "pnmm_avg": "1031.151",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-02-04 00:00:00",
+    "temp_avg": "17.26",
+    "temp_max": "24.54",
+    "temp_min": "12.83",
+    "hrel_avg": "74.16",
+    "pressao_avg": "1014.409",
+    "pnmm_avg": "1031.39",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-05 00:00:00",
+    "temp_avg": "13.56",
+    "temp_max": "18.45",
+    "temp_min": "10.76",
+    "hrel_avg": "87.5",
+    "pressao_avg": "1015.719",
+    "pnmm_avg": "1032.941",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-06 00:00:00",
+    "temp_avg": "14.63",
+    "temp_max": "20.23",
+    "temp_min": "11.44",
+    "hrel_avg": "58.55",
+    "pressao_avg": "1009.673",
+    "pnmm_avg": "1026.729",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-07 00:00:00",
+    "temp_avg": "14.82",
+    "temp_max": "21.26",
+    "temp_min": "10.62",
+    "hrel_avg": "63.02",
+    "pressao_avg": "1006.571",
+    "pnmm_avg": "1023.564",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-08 00:00:00",
+    "temp_avg": "13.67",
+    "temp_max": "18.72",
+    "temp_min": "10.07",
+    "hrel_avg": "81.2",
+    "pressao_avg": "1008.576",
+    "pnmm_avg": "1025.67",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-09 00:00:00",
+    "temp_avg": "12.77",
+    "temp_max": "16.05",
+    "temp_min": "11.13",
+    "hrel_avg": "91.8",
+    "pressao_avg": "1011.224",
+    "pnmm_avg": "1028.417",
+    "precip_tot": "7.2"
+  },
+  {
+    "timestamp": "2020-02-10 00:00:00",
+    "temp_avg": "12.48",
+    "temp_max": "17.25",
+    "temp_min": "8.29",
+    "hrel_avg": "89.6",
+    "pressao_avg": "1016.365",
+    "pnmm_avg": "1033.664",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-02-11 00:00:00",
+    "temp_avg": "14.39",
+    "temp_max": "17.49",
+    "temp_min": "12.25",
+    "hrel_avg": "91.1",
+    "pressao_avg": "1019.005",
+    "pnmm_avg": "1036.232",
+    "precip_tot": "0.5"
+  },
+  {
+    "timestamp": "2020-02-12 00:00:00",
+    "temp_avg": "14.05",
+    "temp_max": "18.93",
+    "temp_min": "11.56",
+    "hrel_avg": "87.3",
+    "pressao_avg": "1014.229",
+    "pnmm_avg": "1031.397",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-02-13 00:00:00",
+    "temp_avg": "12.86",
+    "temp_max": "14.1",
+    "temp_min": "11.37",
+    "hrel_avg": "91.8",
+    "pressao_avg": "1010.126",
+    "pnmm_avg": "1027.295",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-14 00:00:00",
+    "temp_avg": "13.55",
+    "temp_max": "16.08",
+    "temp_min": "11.3",
+    "hrel_avg": "89.6",
+    "pressao_avg": "1011.33",
+    "pnmm_avg": "1028.478",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-02-15 00:00:00",
+    "temp_avg": "13.78",
+    "temp_max": "20.09",
+    "temp_min": "10.02",
+    "hrel_avg": "80.1",
+    "pressao_avg": "1011.856",
+    "pnmm_avg": "1029.001",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-16 00:00:00",
+    "temp_avg": "12.67",
+    "temp_max": "19.42",
+    "temp_min": "7.707",
+    "hrel_avg": "82.8",
+    "pressao_avg": "1011.763",
+    "pnmm_avg": "1028.974",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-17 00:00:00",
+    "temp_avg": "13.27",
+    "temp_max": "15.91",
+    "temp_min": "10.26",
+    "hrel_avg": "87.8",
+    "pressao_avg": "1012.839",
+    "pnmm_avg": "1030.029",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-02-18 00:00:00",
+    "temp_avg": "12.93",
+    "temp_max": "16.96",
+    "temp_min": "8.32",
+    "hrel_avg": "83.3",
+    "pressao_avg": "1016.02",
+    "pnmm_avg": "1033.285",
+    "precip_tot": "4.4"
+  },
+  {
+    "timestamp": "2020-02-19 00:00:00",
+    "temp_avg": "9.5",
+    "temp_max": "15.91",
+    "temp_min": "4.298",
+    "hrel_avg": "79.96",
+    "pressao_avg": "1018.789",
+    "pnmm_avg": "1036.316",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-20 00:00:00",
+    "temp_avg": "11.64",
+    "temp_max": "20.12",
+    "temp_min": "5.072",
+    "hrel_avg": "67.99",
+    "pressao_avg": "1016.037",
+    "pnmm_avg": "1033.386",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-02-21 00:00:00",
+    "temp_avg": "11.47",
+    "temp_max": "20.45",
+    "temp_min": "4.778",
+    "hrel_avg": "75.93",
+    "pressao_avg": "1010.649",
+    "pnmm_avg": "1027.917",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-22 00:00:00",
+    "temp_avg": "14.82",
+    "temp_max": "23.72",
+    "temp_min": "7.998",
+    "hrel_avg": "63.47",
+    "pressao_avg": "1013.519",
+    "pnmm_avg": "1030.632",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-23 00:00:00",
+    "temp_avg": "15.24",
+    "temp_max": "24.49",
+    "temp_min": "8.77",
+    "hrel_avg": "63.28",
+    "pressao_avg": "1016.891",
+    "pnmm_avg": "1034.036",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-24 00:00:00",
+    "temp_avg": "16.2",
+    "temp_max": "26.51",
+    "temp_min": "9.03",
+    "hrel_avg": "58.5",
+    "pressao_avg": "1016.722",
+    "pnmm_avg": "1033.809",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-25 00:00:00",
+    "temp_avg": "13.29",
+    "temp_max": "20.7",
+    "temp_min": "7.347",
+    "hrel_avg": "72.5",
+    "pressao_avg": "1013.86",
+    "pnmm_avg": "1031.07",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-26 00:00:00",
+    "temp_avg": "11.97",
+    "temp_max": "15.16",
+    "temp_min": "10.05",
+    "hrel_avg": "83.3",
+    "pressao_avg": "1011.916",
+    "pnmm_avg": "1029.17",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2020-02-27 00:00:00",
+    "temp_avg": "11.72",
+    "temp_max": "16.87",
+    "temp_min": "8.65",
+    "hrel_avg": "71.59",
+    "pressao_avg": "1012.51",
+    "pnmm_avg": "1029.789",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-28 00:00:00",
+    "temp_avg": "13.14",
+    "temp_max": "19.87",
+    "temp_min": "8.43",
+    "hrel_avg": "79.43",
+    "pressao_avg": "1012.175",
+    "pnmm_avg": "1029.364",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-02-29 00:00:00",
+    "temp_avg": "13.33",
+    "temp_max": "22.76",
+    "temp_min": "7.861",
+    "hrel_avg": "77.36",
+    "pressao_avg": "1006.148",
+    "pnmm_avg": "1023.225",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-01 00:00:00",
+    "temp_avg": "13.07",
+    "temp_max": "15.88",
+    "temp_min": "11.44",
+    "hrel_avg": "84.7",
+    "pressao_avg": "1001.812",
+    "pnmm_avg": "1018.827",
+    "precip_tot": "7.8"
+  },
+  {
+    "timestamp": "2020-03-02 00:00:00",
+    "temp_avg": "13.76",
+    "temp_max": "15.89",
+    "temp_min": "11.49",
+    "hrel_avg": "96.8",
+    "pressao_avg": "999.993",
+    "pnmm_avg": "1016.936",
+    "precip_tot": "27.7"
+  },
+  {
+    "timestamp": "2020-03-03 00:00:00",
+    "temp_avg": "12.54",
+    "temp_max": "15.4",
+    "temp_min": "10.4",
+    "hrel_avg": "81.1",
+    "pressao_avg": "1002.602",
+    "pnmm_avg": "1019.663",
+    "precip_tot": "12.8"
+  },
+  {
+    "timestamp": "2020-03-04 00:00:00",
+    "temp_avg": "13.72",
+    "temp_max": "17.08",
+    "temp_min": "10.46",
+    "hrel_avg": "91.8",
+    "pressao_avg": "1007.914",
+    "pnmm_avg": "1024.994",
+    "precip_tot": "1.3"
+  },
+  {
+    "timestamp": "2020-03-05 00:00:00",
+    "temp_avg": "15.19",
+    "temp_max": "18.14",
+    "temp_min": "13.98",
+    "hrel_avg": "93.6",
+    "pressao_avg": "1008.679",
+    "pnmm_avg": "1025.684",
+    "precip_tot": "1.4"
+  },
+  {
+    "timestamp": "2020-03-06 00:00:00",
+    "temp_avg": "12.84",
+    "temp_max": "15.29",
+    "temp_min": "10.67",
+    "hrel_avg": "87.5",
+    "pressao_avg": "1005.361",
+    "pnmm_avg": "1022.45",
+    "precip_tot": "10.5"
+  },
+  {
+    "timestamp": "2020-03-07 00:00:00",
+    "temp_avg": "11.41",
+    "temp_max": "15.21",
+    "temp_min": "8.46",
+    "hrel_avg": "75.34",
+    "pressao_avg": "1011.661",
+    "pnmm_avg": "1028.945",
+    "precip_tot": "0.9"
+  },
+  {
+    "timestamp": "2020-03-08 00:00:00",
+    "temp_avg": "11.39",
+    "temp_max": "19.51",
+    "temp_min": "4.967",
+    "hrel_avg": "72.86",
+    "pressao_avg": "1014.296",
+    "pnmm_avg": "1031.63",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-09 00:00:00",
+    "temp_avg": "11.08",
+    "temp_max": "15.53",
+    "temp_min": "6.576",
+    "hrel_avg": "85.1",
+    "pressao_avg": "1014.421",
+    "pnmm_avg": "1031.774",
+    "precip_tot": "0.6"
+  },
+  {
+    "timestamp": "2020-03-10 00:00:00",
+    "temp_avg": "12.63",
+    "temp_max": "18.55",
+    "temp_min": "8.39",
+    "hrel_avg": "81.2",
+    "pressao_avg": "1015.617",
+    "pnmm_avg": "1032.895",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-11 00:00:00",
+    "temp_avg": "13.45",
+    "temp_max": "22.99",
+    "temp_min": "7.398",
+    "hrel_avg": "79.08",
+    "pressao_avg": "1013.157",
+    "pnmm_avg": "1030.347",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-12 00:00:00",
+    "temp_avg": "15.27",
+    "temp_max": "25.4",
+    "temp_min": "8.84",
+    "hrel_avg": "80.3",
+    "pressao_avg": "1008.642",
+    "pnmm_avg": "1025.647",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-13 00:00:00",
+    "temp_avg": "14.61",
+    "temp_max": "21.66",
+    "temp_min": "12.04",
+    "hrel_avg": "84.8",
+    "pressao_avg": "1005.693",
+    "pnmm_avg": "1022.684",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-14 00:00:00",
+    "temp_avg": "14.4",
+    "temp_max": "20.39",
+    "temp_min": "10.98",
+    "hrel_avg": "80.7",
+    "pressao_avg": "1005.439",
+    "pnmm_avg": "1022.438",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-15 00:00:00",
+    "temp_avg": "14.86",
+    "temp_max": "24.74",
+    "temp_min": "9.25",
+    "hrel_avg": "76.55",
+    "pressao_avg": "1005.404",
+    "pnmm_avg": "1022.378",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-16 00:00:00",
+    "temp_avg": "11.22",
+    "temp_max": "17.35",
+    "temp_min": "7.176",
+    "hrel_avg": "84.3",
+    "pressao_avg": "1003.173",
+    "pnmm_avg": "1020.324",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-17 00:00:00",
+    "temp_avg": "9.67",
+    "temp_max": "14.85",
+    "temp_min": "4.538",
+    "hrel_avg": "74.87",
+    "pressao_avg": "1005.109",
+    "pnmm_avg": "1022.39",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-18 00:00:00",
+    "temp_avg": "14.59",
+    "temp_max": "20.78",
+    "temp_min": "9.35",
+    "hrel_avg": "55.55",
+    "pressao_avg": "1007.715",
+    "pnmm_avg": "1024.742",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-19 00:00:00",
+    "temp_avg": "17.35",
+    "temp_max": "24.03",
+    "temp_min": "12.06",
+    "hrel_avg": "62.22",
+    "pressao_avg": "1007.473",
+    "pnmm_avg": "1024.332",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-20 00:00:00",
+    "temp_avg": "16.05",
+    "temp_max": "23.04",
+    "temp_min": "12.4",
+    "hrel_avg": "68.31",
+    "pressao_avg": "1003.185",
+    "pnmm_avg": "1020.048",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-21 00:00:00",
+    "temp_avg": "12.26",
+    "temp_max": "14.16",
+    "temp_min": "10.74",
+    "hrel_avg": "94.4",
+    "pressao_avg": "998.8324",
+    "pnmm_avg": "1015.845",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-22 00:00:00",
+    "temp_avg": "12.02",
+    "temp_max": "17.69",
+    "temp_min": "9.16",
+    "hrel_avg": "81.8",
+    "pressao_avg": "996.5918",
+    "pnmm_avg": "1013.582",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-23 00:00:00",
+    "temp_avg": "12.63",
+    "temp_max": "19.85",
+    "temp_min": "6.576",
+    "hrel_avg": "77.64",
+    "pressao_avg": "998.5026",
+    "pnmm_avg": "1015.491",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-24 00:00:00",
+    "temp_avg": "14.8",
+    "temp_max": "21.91",
+    "temp_min": "9.13",
+    "hrel_avg": "75.42",
+    "pressao_avg": "999.7084",
+    "pnmm_avg": "1016.588",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-25 00:00:00",
+    "temp_avg": "15.69",
+    "temp_max": "21.39",
+    "temp_min": "10.53",
+    "hrel_avg": "65.34",
+    "pressao_avg": "1000.216",
+    "pnmm_avg": "1017.051",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-26 00:00:00",
+    "temp_avg": "14.07",
+    "temp_max": "21.48",
+    "temp_min": "8.61",
+    "hrel_avg": "78.63",
+    "pressao_avg": "1002.279",
+    "pnmm_avg": "1019.245",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-27 00:00:00",
+    "temp_avg": "12.84",
+    "temp_max": "17.78",
+    "temp_min": "8.96",
+    "hrel_avg": "77.72",
+    "pressao_avg": "999.5494",
+    "pnmm_avg": "1016.541",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-28 00:00:00",
+    "temp_avg": "13.32",
+    "temp_max": "19.61",
+    "temp_min": "8.85",
+    "hrel_avg": "59.26",
+    "pressao_avg": "996.8571",
+    "pnmm_avg": "1013.775",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-29 00:00:00",
+    "temp_avg": "14.72",
+    "temp_max": "21.32",
+    "temp_min": "10.33",
+    "hrel_avg": "50.96",
+    "pressao_avg": "1002.508",
+    "pnmm_avg": "1019.439",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-30 00:00:00",
+    "temp_avg": "14.04",
+    "temp_max": "21.29",
+    "temp_min": "9.08",
+    "hrel_avg": "64.56",
+    "pressao_avg": "1003.404",
+    "pnmm_avg": "1020.39",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-03-31 00:00:00",
+    "temp_avg": "9.57",
+    "temp_max": "12.31",
+    "temp_min": "5.737",
+    "hrel_avg": "64.89",
+    "pressao_avg": "996.9659",
+    "pnmm_avg": "1014.111",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-01 00:00:00",
+    "temp_avg": "6.614",
+    "temp_max": "9.24",
+    "temp_min": "4.567",
+    "hrel_avg": "81.4",
+    "pressao_avg": "992.1109",
+    "pnmm_avg": "1009.354",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-02 00:00:00",
+    "temp_avg": "8.3",
+    "temp_max": "12.26",
+    "temp_min": "4.691",
+    "hrel_avg": "82.6",
+    "pressao_avg": "996.5446",
+    "pnmm_avg": "1013.761",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-03 00:00:00",
+    "temp_avg": "11.85",
+    "temp_max": "19.7",
+    "temp_min": "4.587",
+    "hrel_avg": "76.42",
+    "pressao_avg": "1000.684",
+    "pnmm_avg": "1017.758",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-04 00:00:00",
+    "temp_avg": "14.59",
+    "temp_max": "23.86",
+    "temp_min": "6.933",
+    "hrel_avg": "69.81",
+    "pressao_avg": "1000.806",
+    "pnmm_avg": "1017.72",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-05 00:00:00",
+    "temp_avg": "14.83",
+    "temp_max": "18.75",
+    "temp_min": "9.59",
+    "hrel_avg": "65.07",
+    "pressao_avg": "996.8413",
+    "pnmm_avg": "1013.669",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-06 00:00:00",
+    "temp_avg": "15.5",
+    "temp_max": "18.09",
+    "temp_min": "13.74",
+    "hrel_avg": "87.9",
+    "pressao_avg": "998.0767",
+    "pnmm_avg": "1014.884",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-07 00:00:00",
+    "temp_avg": "14.73",
+    "temp_max": "18.55",
+    "temp_min": "12.52",
+    "hrel_avg": "89.3",
+    "pressao_avg": "1004.371",
+    "pnmm_avg": "1021.331",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-08 00:00:00",
+    "temp_avg": "17.21",
+    "temp_max": "23.24",
+    "temp_min": "14.32",
+    "hrel_avg": "82.2",
+    "pressao_avg": "1006.854",
+    "pnmm_avg": "1023.71",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-09 00:00:00",
+    "temp_avg": "17.34",
+    "temp_max": "22.16",
+    "temp_min": "13.77",
+    "hrel_avg": "85.5",
+    "pressao_avg": "1006.528",
+    "pnmm_avg": "1023.37",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-10 00:00:00",
+    "temp_avg": "16.12",
+    "temp_max": "19.22",
+    "temp_min": "14.51",
+    "hrel_avg": "92.2",
+    "pressao_avg": "1004.434",
+    "pnmm_avg": "1021.312",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-11 00:00:00",
+    "temp_avg": "16.06",
+    "temp_max": "19.88",
+    "temp_min": "14.16",
+    "hrel_avg": "88.5",
+    "pressao_avg": "1007.042",
+    "pnmm_avg": "1023.967",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-12 00:00:00",
+    "temp_avg": "14.87",
+    "temp_max": "18.7",
+    "temp_min": "13.26",
+    "hrel_avg": "85.2",
+    "pressao_avg": "1005.863",
+    "pnmm_avg": "1022.84",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-13 00:00:00",
+    "temp_avg": "15.36",
+    "temp_max": "20.3",
+    "temp_min": "13.08",
+    "hrel_avg": "83.5",
+    "pressao_avg": "1001.831",
+    "pnmm_avg": "1018.711",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-14 00:00:00",
+    "temp_avg": "12.62",
+    "temp_max": "14.64",
+    "temp_min": "9.74",
+    "hrel_avg": "85.2",
+    "pressao_avg": "994.3706",
+    "pnmm_avg": "1011.286",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-15 00:00:00",
+    "temp_avg": "15.32",
+    "temp_max": "19.54",
+    "temp_min": "10.02",
+    "hrel_avg": "72.21",
+    "pressao_avg": "993.9315",
+    "pnmm_avg": "1010.682",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-16 00:00:00",
+    "temp_avg": "13.31",
+    "temp_max": "16.99",
+    "temp_min": "11.05",
+    "hrel_avg": "84.9",
+    "pressao_avg": "993.8793",
+    "pnmm_avg": "1010.746",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-17 00:00:00",
+    "temp_avg": "14.68",
+    "temp_max": "18.75",
+    "temp_min": "11.78",
+    "hrel_avg": "81.8",
+    "pressao_avg": "995.6618",
+    "pnmm_avg": "1012.477",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-18 00:00:00",
+    "temp_avg": "15.42",
+    "temp_max": "19.88",
+    "temp_min": "11.56",
+    "hrel_avg": "80.2",
+    "pressao_avg": "999.0146",
+    "pnmm_avg": "1015.843",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-19 00:00:00",
+    "temp_avg": "14.8",
+    "temp_max": "21.65",
+    "temp_min": "9.44",
+    "hrel_avg": "80.4",
+    "pressao_avg": "1001.186",
+    "pnmm_avg": "1018.09",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-20 00:00:00",
+    "temp_avg": "14.52",
+    "temp_max": "19.68",
+    "temp_min": "11.51",
+    "hrel_avg": "79.98",
+    "pressao_avg": "1000.03",
+    "pnmm_avg": "1016.929",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-21 00:00:00",
+    "temp_avg": "12.39",
+    "temp_max": "15.67",
+    "temp_min": "10.26",
+    "hrel_avg": "87.2",
+    "pressao_avg": "995.9285",
+    "pnmm_avg": "1012.884",
+    "precip_tot": "12.3"
+  },
+  {
+    "timestamp": "2020-04-22 00:00:00",
+    "temp_avg": "12.53",
+    "temp_max": "17.28",
+    "temp_min": "8.19",
+    "hrel_avg": "87.4",
+    "pressao_avg": "998.0523",
+    "pnmm_avg": "1015.037",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-23 00:00:00",
+    "temp_avg": "14.47",
+    "temp_max": "19.06",
+    "temp_min": "10.55",
+    "hrel_avg": "80.1",
+    "pressao_avg": "1003.448",
+    "pnmm_avg": "1020.409",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-04-24 00:00:00",
+    "temp_avg": "15.61",
+    "temp_max": "23.07",
+    "temp_min": "10.93",
+    "hrel_avg": "79.71",
+    "pressao_avg": "1002.583",
+    "pnmm_avg": "1019.463",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-04-25 00:00:00",
+    "temp_avg": "14.76",
+    "temp_max": "22.56",
+    "temp_min": "10.96",
+    "hrel_avg": "86.1",
+    "pressao_avg": "998.7059",
+    "pnmm_avg": "1015.57",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-04-26 00:00:00",
+    "temp_avg": "14.28",
+    "temp_max": "18.98",
+    "temp_min": "11.42",
+    "hrel_avg": "84.2",
+    "pressao_avg": "998.4254",
+    "pnmm_avg": "1015.311",
+    "precip_tot": "0.4"
+  },
+  {
+    "timestamp": "2020-04-27 00:00:00",
+    "temp_avg": "13.38",
+    "temp_max": "17.21",
+    "temp_min": "9.93",
+    "hrel_avg": "86.1",
+    "pressao_avg": "999.8337",
+    "pnmm_avg": "1016.797",
+    "precip_tot": "0.9"
+  },
+  {
+    "timestamp": "2020-04-28 00:00:00",
+    "temp_avg": "14.23",
+    "temp_max": "18.17",
+    "temp_min": "11.63",
+    "hrel_avg": "80.7",
+    "pressao_avg": "1000.263",
+    "pnmm_avg": "1017.183",
+    "precip_tot": "0.4"
+  },
+  {
+    "timestamp": "2020-04-29 00:00:00",
+    "temp_avg": "14.41",
+    "temp_max": "18.77",
+    "temp_min": "11.39",
+    "hrel_avg": "79.26",
+    "pressao_avg": "1003.924",
+    "pnmm_avg": "1020.895",
+    "precip_tot": "2.2"
+  },
+  {
+    "timestamp": "2020-04-30 00:00:00",
+    "temp_avg": "14.29",
+    "temp_max": "17.62",
+    "temp_min": "11.65",
+    "hrel_avg": "82",
+    "pressao_avg": "1004.938",
+    "pnmm_avg": "1021.934",
+    "precip_tot": "0.8"
+  },
+  {
+    "timestamp": "2020-05-01 00:00:00",
+    "temp_avg": "15.99",
+    "temp_max": "20.26",
+    "temp_min": "12.79",
+    "hrel_avg": "78.21",
+    "pressao_avg": "1005.851",
+    "pnmm_avg": "1022.761",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2020-05-02 00:00:00",
+    "temp_avg": "17",
+    "temp_max": "20.09",
+    "temp_min": "14.78",
+    "hrel_avg": "92.2",
+    "pressao_avg": "1007.98",
+    "pnmm_avg": "1024.865",
+    "precip_tot": "1.5"
+  },
+  {
+    "timestamp": "2020-05-03 00:00:00",
+    "temp_avg": "19.29",
+    "temp_max": "25.02",
+    "temp_min": "15.37",
+    "hrel_avg": "77.19",
+    "pressao_avg": "1007.042",
+    "pnmm_avg": "1023.78",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-04 00:00:00",
+    "temp_avg": "23.1",
+    "temp_max": "31.14",
+    "temp_min": "14.04",
+    "hrel_avg": "61.52",
+    "pressao_avg": "998.9979",
+    "pnmm_avg": "1015.394",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-05 00:00:00",
+    "temp_avg": "18.47",
+    "temp_max": "22.41",
+    "temp_min": "15.77",
+    "hrel_avg": "76.14",
+    "pressao_avg": "996.8922",
+    "pnmm_avg": "1013.508",
+    "precip_tot": "1.6"
+  },
+  {
+    "timestamp": "2020-05-06 00:00:00",
+    "temp_avg": "17.4",
+    "temp_max": "22.94",
+    "temp_min": "13.01",
+    "hrel_avg": "74.08",
+    "pressao_avg": "1002.761",
+    "pnmm_avg": "1019.537",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-05-07 00:00:00",
+    "temp_avg": "18.06",
+    "temp_max": "24.72",
+    "temp_min": "12.55",
+    "hrel_avg": "73.63",
+    "pressao_avg": "1004.75",
+    "pnmm_avg": "1021.522",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-08 00:00:00",
+    "temp_avg": "19.46",
+    "temp_max": "27.14",
+    "temp_min": "14.28",
+    "hrel_avg": "76.05",
+    "pressao_avg": "1000.284",
+    "pnmm_avg": "1016.902",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-09 00:00:00",
+    "temp_avg": "17.06",
+    "temp_max": "21.97",
+    "temp_min": "15.12",
+    "hrel_avg": "83",
+    "pressao_avg": "999.9438",
+    "pnmm_avg": "1016.692",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-10 00:00:00",
+    "temp_avg": "14.97",
+    "temp_max": "19.88",
+    "temp_min": "12.13",
+    "hrel_avg": "82.6",
+    "pressao_avg": "996.4108",
+    "pnmm_avg": "1013.222",
+    "precip_tot": "1.3"
+  },
+  {
+    "timestamp": "2020-05-11 00:00:00",
+    "temp_avg": "15.13",
+    "temp_max": "21.02",
+    "temp_min": "11.03",
+    "hrel_avg": "81.8",
+    "pressao_avg": "994.9178",
+    "pnmm_avg": "1011.695",
+    "precip_tot": "11.4"
+  },
+  {
+    "timestamp": "2020-05-12 00:00:00",
+    "temp_avg": "16.06",
+    "temp_max": "19.59",
+    "temp_min": "13.38",
+    "hrel_avg": "85.3",
+    "pressao_avg": "993.962",
+    "pnmm_avg": "1010.668",
+    "precip_tot": "11"
+  },
+  {
+    "timestamp": "2020-05-13 00:00:00",
+    "temp_avg": "15.48",
+    "temp_max": "22.42",
+    "temp_min": "11.03",
+    "hrel_avg": "82.7",
+    "pressao_avg": "994.5253",
+    "pnmm_avg": "1011.276",
+    "precip_tot": "4.2"
+  },
+  {
+    "timestamp": "2020-05-14 00:00:00",
+    "temp_avg": "13.82",
+    "temp_max": "16.82",
+    "temp_min": "11.78",
+    "hrel_avg": "87.5",
+    "pressao_avg": "990.2836",
+    "pnmm_avg": "1007.059",
+    "precip_tot": "9.2"
+  },
+  {
+    "timestamp": "2020-05-15 00:00:00",
+    "temp_avg": "15.22",
+    "temp_max": "20.54",
+    "temp_min": "10.17",
+    "hrel_avg": "74.87",
+    "pressao_avg": "991.1807",
+    "pnmm_avg": "1007.89",
+    "precip_tot": "1.4"
+  },
+  {
+    "timestamp": "2020-05-16 00:00:00",
+    "temp_avg": "17.06",
+    "temp_max": "22.28",
+    "temp_min": "13.46",
+    "hrel_avg": "78.76",
+    "pressao_avg": "998.9908",
+    "pnmm_avg": "1015.723",
+    "precip_tot": "1.9"
+  },
+  {
+    "timestamp": "2020-05-17 00:00:00",
+    "temp_avg": "18.35",
+    "temp_max": "25.48",
+    "temp_min": "13.2",
+    "hrel_avg": "62.67",
+    "pressao_avg": "1003.949",
+    "pnmm_avg": "1020.691",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-18 00:00:00",
+    "temp_avg": "19.33",
+    "temp_max": "27.08",
+    "temp_min": "12.91",
+    "hrel_avg": "60.2",
+    "pressao_avg": "1008.126",
+    "pnmm_avg": "1024.882",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-19 00:00:00",
+    "temp_avg": "19.18",
+    "temp_max": "27.2",
+    "temp_min": "12.73",
+    "hrel_avg": "71.7",
+    "pressao_avg": "1009.352",
+    "pnmm_avg": "1026.137",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-20 00:00:00",
+    "temp_avg": "19.74",
+    "temp_max": "28.8",
+    "temp_min": "13.15",
+    "hrel_avg": "73.46",
+    "pressao_avg": "1005.996",
+    "pnmm_avg": "1022.694",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-21 00:00:00",
+    "temp_avg": "17.96",
+    "temp_max": "25.89",
+    "temp_min": "14.24",
+    "hrel_avg": "80.1",
+    "pressao_avg": "1005.199",
+    "pnmm_avg": "1021.984",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-22 00:00:00",
+    "temp_avg": "17.61",
+    "temp_max": "24.87",
+    "temp_min": "12.76",
+    "hrel_avg": "81.5",
+    "pressao_avg": "1007.49",
+    "pnmm_avg": "1024.334",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-23 00:00:00",
+    "temp_avg": "19.72",
+    "temp_max": "26.95",
+    "temp_min": "13.36",
+    "hrel_avg": "77.03",
+    "pressao_avg": "1011.064",
+    "pnmm_avg": "1027.846",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-24 00:00:00",
+    "temp_avg": "20.29",
+    "temp_max": "27.29",
+    "temp_min": "15.97",
+    "hrel_avg": "72.49",
+    "pressao_avg": "1012.393",
+    "pnmm_avg": "1029.163",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-25 00:00:00",
+    "temp_avg": "21.57",
+    "temp_max": "29.96",
+    "temp_min": "14.5",
+    "hrel_avg": "68.3",
+    "pressao_avg": "1009.567",
+    "pnmm_avg": "1026.22",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-26 00:00:00",
+    "temp_avg": "21.36",
+    "temp_max": "29.16",
+    "temp_min": "15.84",
+    "hrel_avg": "75.48",
+    "pressao_avg": "1008.097",
+    "pnmm_avg": "1024.736",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-27 00:00:00",
+    "temp_avg": "25.55",
+    "temp_max": "33.32",
+    "temp_min": "18.7",
+    "hrel_avg": "53.31",
+    "pressao_avg": "1006.097",
+    "pnmm_avg": "1022.468",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-28 00:00:00",
+    "temp_avg": "26.99",
+    "temp_max": "34.67",
+    "temp_min": "20.85",
+    "hrel_avg": "49.36",
+    "pressao_avg": "1005.071",
+    "pnmm_avg": "1021.346",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-29 00:00:00",
+    "temp_avg": "27.3",
+    "temp_max": "35.3",
+    "temp_min": "20.6",
+    "hrel_avg": "46.5",
+    "pressao_avg": "1003.757",
+    "pnmm_avg": "1019.993",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-30 00:00:00",
+    "temp_avg": "25.18",
+    "temp_max": "33.93",
+    "temp_min": "18.58",
+    "hrel_avg": "62.62",
+    "pressao_avg": "1000.375",
+    "pnmm_avg": "1016.675",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-05-31 00:00:00",
+    "temp_avg": "20.52",
+    "temp_max": "28.08",
+    "temp_min": "17.53",
+    "hrel_avg": "83",
+    "pressao_avg": "998.149",
+    "pnmm_avg": "1014.669",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-01 00:00:00",
+    "temp_avg": "20.44",
+    "temp_max": "28.39",
+    "temp_min": "16.74",
+    "hrel_avg": "80.8",
+    "pressao_avg": "996.683",
+    "pnmm_avg": "1013.184",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-02 00:00:00",
+    "temp_avg": "21.46",
+    "temp_max": "25.89",
+    "temp_min": "16.23",
+    "hrel_avg": "71.81",
+    "pressao_avg": "999.094",
+    "pnmm_avg": "1015.577",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-03 00:00:00",
+    "temp_avg": "21.49",
+    "temp_max": "26.85",
+    "temp_min": "17.55",
+    "hrel_avg": "72.92",
+    "pressao_avg": "1000.22",
+    "pnmm_avg": "1016.719",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-04 00:00:00",
+    "temp_avg": "19.75",
+    "temp_max": "24.26",
+    "temp_min": "17.49",
+    "hrel_avg": "78.14",
+    "pressao_avg": "998.7111",
+    "pnmm_avg": "1015.283",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-05 00:00:00",
+    "temp_avg": "19.61",
+    "temp_max": "24.78",
+    "temp_min": "15.17",
+    "hrel_avg": "69.93",
+    "pressao_avg": "997.5998",
+    "pnmm_avg": "1014.162",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-06 00:00:00",
+    "temp_avg": "18.46",
+    "temp_max": "26.79",
+    "temp_min": "12.76",
+    "hrel_avg": "70.33",
+    "pressao_avg": "1000.371",
+    "pnmm_avg": "1017.049",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-07 00:00:00",
+    "temp_avg": "17.54",
+    "temp_max": "23.03",
+    "temp_min": "13.92",
+    "hrel_avg": "71.98",
+    "pressao_avg": "998.5307",
+    "pnmm_avg": "1015.228",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-08 00:00:00",
+    "temp_avg": "17.17",
+    "temp_max": "21.8",
+    "temp_min": "13.17",
+    "hrel_avg": "70.42",
+    "pressao_avg": "999.9038",
+    "pnmm_avg": "1016.645",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-09 00:00:00",
+    "temp_avg": "17.27",
+    "temp_max": "24.61",
+    "temp_min": "10.88",
+    "hrel_avg": "66.14",
+    "pressao_avg": "1003.383",
+    "pnmm_avg": "1020.18",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-10 00:00:00",
+    "temp_avg": "17.96",
+    "temp_max": "24.85",
+    "temp_min": "11.41",
+    "hrel_avg": "66.49",
+    "pressao_avg": "1004.897",
+    "pnmm_avg": "1021.679",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-11 00:00:00",
+    "temp_avg": "18.09",
+    "temp_max": "25.46",
+    "temp_min": "13.05",
+    "hrel_avg": "68.97",
+    "pressao_avg": "1003.503",
+    "pnmm_avg": "1020.254",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-12 00:00:00",
+    "temp_avg": "15.38",
+    "temp_max": "19.95",
+    "temp_min": "13.56",
+    "hrel_avg": "82",
+    "pressao_avg": "999.2505",
+    "pnmm_avg": "1016.085",
+    "precip_tot": "2.3"
+  },
+  {
+    "timestamp": "2020-06-13 00:00:00",
+    "temp_avg": "15.57",
+    "temp_max": "20.5",
+    "temp_min": "13.08",
+    "hrel_avg": "82.1",
+    "pressao_avg": "996.8029",
+    "pnmm_avg": "1013.585",
+    "precip_tot": "5.1"
+  },
+  {
+    "timestamp": "2020-06-14 00:00:00",
+    "temp_avg": "17.77",
+    "temp_max": "23.31",
+    "temp_min": "13.51",
+    "hrel_avg": "72.51",
+    "pressao_avg": "1003.273",
+    "pnmm_avg": "1020.036",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-15 00:00:00",
+    "temp_avg": "17.08",
+    "temp_max": "22.9",
+    "temp_min": "11.66",
+    "hrel_avg": "71.54",
+    "pressao_avg": "1007.996",
+    "pnmm_avg": "1024.878",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-16 00:00:00",
+    "temp_avg": "18.42",
+    "temp_max": "24.58",
+    "temp_min": "13.46",
+    "hrel_avg": "71.02",
+    "pressao_avg": "1009.687",
+    "pnmm_avg": "1026.521",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-17 00:00:00",
+    "temp_avg": "18.4",
+    "temp_max": "22.75",
+    "temp_min": "14.81",
+    "hrel_avg": "72.43",
+    "pressao_avg": "1008.281",
+    "pnmm_avg": "1025.091",
+    "precip_tot": "0.4"
+  },
+  {
+    "timestamp": "2020-06-18 00:00:00",
+    "temp_avg": "17.95",
+    "temp_max": "23.07",
+    "temp_min": "13.77",
+    "hrel_avg": "66.54",
+    "pressao_avg": "1004.781",
+    "pnmm_avg": "1021.559",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-19 00:00:00",
+    "temp_avg": "17.75",
+    "temp_max": "23.97",
+    "temp_min": "12.9",
+    "hrel_avg": "71.03",
+    "pressao_avg": "1002.945",
+    "pnmm_avg": "1019.705",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-20 00:00:00",
+    "temp_avg": "18.22",
+    "temp_max": "24.88",
+    "temp_min": "12.78",
+    "hrel_avg": "68.63",
+    "pressao_avg": "1006.702",
+    "pnmm_avg": "1023.498",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-21 00:00:00",
+    "temp_avg": "19.5",
+    "temp_max": "27.89",
+    "temp_min": "12.26",
+    "hrel_avg": "68.37",
+    "pressao_avg": "1009.676",
+    "pnmm_avg": "1026.449",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-22 00:00:00",
+    "temp_avg": "20.5",
+    "temp_max": "27.73",
+    "temp_min": "14.11",
+    "hrel_avg": "72.21",
+    "pressao_avg": "1011.179",
+    "pnmm_avg": "1027.918",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-23 00:00:00",
+    "temp_avg": "24.1",
+    "temp_max": "33.35",
+    "temp_min": "16.82",
+    "hrel_avg": "67.93",
+    "pressao_avg": "1004.919",
+    "pnmm_avg": "1021.355",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-24 00:00:00",
+    "temp_avg": "21.43",
+    "temp_max": "30.18",
+    "temp_min": "16.95",
+    "hrel_avg": "77.89",
+    "pressao_avg": "1000.93",
+    "pnmm_avg": "1017.446",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-25 00:00:00",
+    "temp_avg": "17.82",
+    "temp_max": "20.94",
+    "temp_min": "16.11",
+    "hrel_avg": "87.6",
+    "pressao_avg": "1002.343",
+    "pnmm_avg": "1019.086",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-06-26 00:00:00",
+    "temp_avg": "18.29",
+    "temp_max": "25.38",
+    "temp_min": "15.77",
+    "hrel_avg": "83",
+    "pressao_avg": "1002.774",
+    "pnmm_avg": "1019.499",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-06-27 00:00:00",
+    "temp_avg": "19.53",
+    "temp_max": "25",
+    "temp_min": "15.62",
+    "hrel_avg": "73.51",
+    "pressao_avg": "1003.796",
+    "pnmm_avg": "1020.466",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-06-28 00:00:00",
+    "temp_avg": "21.31",
+    "temp_max": "27.4",
+    "temp_min": "17.89",
+    "hrel_avg": "80.4",
+    "pressao_avg": "1005.219",
+    "pnmm_avg": "1021.811",
+    "precip_tot": "1.2"
+  },
+  {
+    "timestamp": "2020-06-29 00:00:00",
+    "temp_avg": "22.22",
+    "temp_max": "29.11",
+    "temp_min": "17.49",
+    "hrel_avg": "75.2",
+    "pressao_avg": "1005.907",
+    "pnmm_avg": "1022.46",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-06-30 00:00:00",
+    "temp_avg": "21.63",
+    "temp_max": "29.07",
+    "temp_min": "17.06",
+    "hrel_avg": "74.53",
+    "pressao_avg": "1002.965",
+    "pnmm_avg": "1019.504",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-01 00:00:00",
+    "temp_avg": "21.7",
+    "temp_max": "30.03",
+    "temp_min": "15.48",
+    "hrel_avg": "72.21",
+    "pressao_avg": "999.1648",
+    "pnmm_avg": "1015.638",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-02 00:00:00",
+    "temp_avg": "20.76",
+    "temp_max": "28.01",
+    "temp_min": "16.61",
+    "hrel_avg": "76.4",
+    "pressao_avg": "1002.376",
+    "pnmm_avg": "1018.954",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-03 00:00:00",
+    "temp_avg": "19.02",
+    "temp_max": "24.73",
+    "temp_min": "14.38",
+    "hrel_avg": "64.75",
+    "pressao_avg": "1005.829",
+    "pnmm_avg": "1022.564",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-04 00:00:00",
+    "temp_avg": "18.85",
+    "temp_max": "27.92",
+    "temp_min": "12.01",
+    "hrel_avg": "66.04",
+    "pressao_avg": "1007.353",
+    "pnmm_avg": "1024.125",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-05 00:00:00",
+    "temp_avg": "21.87",
+    "temp_max": "32.67",
+    "temp_min": "12.83",
+    "hrel_avg": "64.69",
+    "pressao_avg": "1006.983",
+    "pnmm_avg": "1023.58",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-06 00:00:00",
+    "temp_avg": "24.58",
+    "temp_max": "36.67",
+    "temp_min": "15.72",
+    "hrel_avg": "65.11",
+    "pressao_avg": "1004.359",
+    "pnmm_avg": "1020.761",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-07 00:00:00",
+    "temp_avg": "24.7",
+    "temp_max": "35.61",
+    "temp_min": "16.35",
+    "hrel_avg": "66.05",
+    "pressao_avg": "1002.246",
+    "pnmm_avg": "1018.605",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-08 00:00:00",
+    "temp_avg": "23.55",
+    "temp_max": "32.94",
+    "temp_min": "16.62",
+    "hrel_avg": "69.65",
+    "pressao_avg": "1000.104",
+    "pnmm_avg": "1016.49",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-09 00:00:00",
+    "temp_avg": "21.18",
+    "temp_max": "29.38",
+    "temp_min": "16.74",
+    "hrel_avg": "72.2",
+    "pressao_avg": "999.3309",
+    "pnmm_avg": "1015.835",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-10 00:00:00",
+    "temp_avg": "21.98",
+    "temp_max": "30.56",
+    "temp_min": "16.52",
+    "hrel_avg": "70.39",
+    "pressao_avg": "1002.031",
+    "pnmm_avg": "1018.535",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-11 00:00:00",
+    "temp_avg": "22.74",
+    "temp_max": "31.85",
+    "temp_min": "16.68",
+    "hrel_avg": "67.93",
+    "pressao_avg": "1000.933",
+    "pnmm_avg": "1017.378",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-12 00:00:00",
+    "temp_avg": "25.36",
+    "temp_max": "36.81",
+    "temp_min": "16.39",
+    "hrel_avg": "61.79",
+    "pressao_avg": "998.1063",
+    "pnmm_avg": "1014.362",
+    "precip_tot": "4.3"
+  },
+  {
+    "timestamp": "2020-07-13 00:00:00",
+    "temp_avg": "25.96",
+    "temp_max": "35.68",
+    "temp_min": "18.35",
+    "hrel_avg": "61.8",
+    "pressao_avg": "1001.006",
+    "pnmm_avg": "1017.274",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-07-14 00:00:00",
+    "temp_avg": "27.83",
+    "temp_max": "37.36",
+    "temp_min": "19.12",
+    "hrel_avg": "55.83",
+    "pressao_avg": "1003.016",
+    "pnmm_avg": "1019.214",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-15 00:00:00",
+    "temp_avg": "24.09",
+    "temp_max": "33.83",
+    "temp_min": "18.15",
+    "hrel_avg": "59.93",
+    "pressao_avg": "1000.649",
+    "pnmm_avg": "1017.013",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-16 00:00:00",
+    "temp_avg": "27.05",
+    "temp_max": "38.21",
+    "temp_min": "16.09",
+    "hrel_avg": "42.93",
+    "pressao_avg": "999.6893",
+    "pnmm_avg": "1015.878",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-17 00:00:00",
+    "temp_avg": "30.91",
+    "temp_max": "39.94",
+    "temp_min": "23.28",
+    "hrel_avg": "33.3",
+    "pressao_avg": "1000.326",
+    "pnmm_avg": "1016.314",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-18 00:00:00",
+    "temp_avg": "31.33",
+    "temp_max": "41.37",
+    "temp_min": "22.21",
+    "hrel_avg": "34.36",
+    "pressao_avg": "998.7501",
+    "pnmm_avg": "1014.693",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-19 00:00:00",
+    "temp_avg": "27.48",
+    "temp_max": "37.82",
+    "temp_min": "19.62",
+    "hrel_avg": "50.67",
+    "pressao_avg": "999.0054",
+    "pnmm_avg": "1015.158",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-20 00:00:00",
+    "temp_avg": "22.52",
+    "temp_max": "30.72",
+    "temp_min": "17.28",
+    "hrel_avg": "70.57",
+    "pressao_avg": "1000.403",
+    "pnmm_avg": "1016.85",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-21 00:00:00",
+    "temp_avg": "23.74",
+    "temp_max": "35.82",
+    "temp_min": "16.16",
+    "hrel_avg": "66.33",
+    "pressao_avg": "999.6712",
+    "pnmm_avg": "1016.042",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-22 00:00:00",
+    "temp_avg": "26.59",
+    "temp_max": "35.67",
+    "temp_min": "19.01",
+    "hrel_avg": "54.95",
+    "pressao_avg": "999.6837",
+    "pnmm_avg": "1015.894",
+    "precip_tot": "0.4"
+  },
+  {
+    "timestamp": "2020-07-23 00:00:00",
+    "temp_avg": "25.74",
+    "temp_max": "33.76",
+    "temp_min": "19.56",
+    "hrel_avg": "62.95",
+    "pressao_avg": "1002.771",
+    "pnmm_avg": "1019.078",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-24 00:00:00",
+    "temp_avg": "23.33",
+    "temp_max": "32.05",
+    "temp_min": "17.71",
+    "hrel_avg": "72.11",
+    "pressao_avg": "1003.14",
+    "pnmm_avg": "1019.587",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-25 00:00:00",
+    "temp_avg": "21.92",
+    "temp_max": "30.66",
+    "temp_min": "17.21",
+    "hrel_avg": "69.28",
+    "pressao_avg": "1002.217",
+    "pnmm_avg": "1018.728",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-26 00:00:00",
+    "temp_avg": "21.03",
+    "temp_max": "30.79",
+    "temp_min": "15.93",
+    "hrel_avg": "73.45",
+    "pressao_avg": "1001.883",
+    "pnmm_avg": "1018.438",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-27 00:00:00",
+    "temp_avg": "22.73",
+    "temp_max": "32.93",
+    "temp_min": "16.77",
+    "hrel_avg": "70.04",
+    "pressao_avg": "1001.136",
+    "pnmm_avg": "1017.585",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-28 00:00:00",
+    "temp_avg": "21.39",
+    "temp_max": "29.64",
+    "temp_min": "15.23",
+    "hrel_avg": "75.11",
+    "pressao_avg": "1002.041",
+    "pnmm_avg": "1018.579",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-29 00:00:00",
+    "temp_avg": "22.85",
+    "temp_max": "29.43",
+    "temp_min": "17.89",
+    "hrel_avg": "73.82",
+    "pressao_avg": "1002.089",
+    "pnmm_avg": "1018.544",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-30 00:00:00",
+    "temp_avg": "23.48",
+    "temp_max": "33.53",
+    "temp_min": "17.14",
+    "hrel_avg": "72.04",
+    "pressao_avg": "998.6277",
+    "pnmm_avg": "1014.994",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-07-31 00:00:00",
+    "temp_avg": "21.79",
+    "temp_max": "31.37",
+    "temp_min": "16.51",
+    "hrel_avg": "75.71",
+    "pressao_avg": "998.7984",
+    "pnmm_avg": "1015.26",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-01 00:00:00",
+    "temp_avg": "22.44",
+    "temp_max": "31.17",
+    "temp_min": "17.82",
+    "hrel_avg": "68.14",
+    "pressao_avg": "1002.362",
+    "pnmm_avg": "1018.846",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-02 00:00:00",
+    "temp_avg": "21.64",
+    "temp_max": "29.29",
+    "temp_min": "17.48",
+    "hrel_avg": "74.57",
+    "pressao_avg": "1005.655",
+    "pnmm_avg": "1022.236",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-03 00:00:00",
+    "temp_avg": "20.81",
+    "temp_max": "28.85",
+    "temp_min": "16.46",
+    "hrel_avg": "70.67",
+    "pressao_avg": "1004.845",
+    "pnmm_avg": "1021.461",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-04 00:00:00",
+    "temp_avg": "20.62",
+    "temp_max": "28.2",
+    "temp_min": "15.14",
+    "hrel_avg": "73.14",
+    "pressao_avg": "1004.236",
+    "pnmm_avg": "1020.854",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-05 00:00:00",
+    "temp_avg": "23.56",
+    "temp_max": "34.15",
+    "temp_min": "17.33",
+    "hrel_avg": "66.27",
+    "pressao_avg": "1000.272",
+    "pnmm_avg": "1016.661",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-06 00:00:00",
+    "temp_avg": "22.7",
+    "temp_max": "34.08",
+    "temp_min": "16.59",
+    "hrel_avg": "67.58",
+    "pressao_avg": "998.0855",
+    "pnmm_avg": "1014.487",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-07 00:00:00",
+    "temp_avg": "22.89",
+    "temp_max": "32.36",
+    "temp_min": "16.29",
+    "hrel_avg": "70.01",
+    "pressao_avg": "998.2661",
+    "pnmm_avg": "1014.659",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-08 00:00:00",
+    "temp_avg": "22.34",
+    "temp_max": "32.09",
+    "temp_min": "18.12",
+    "hrel_avg": "76.1",
+    "pressao_avg": "1002.791",
+    "pnmm_avg": "1019.287",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-09 00:00:00",
+    "temp_avg": "21.64",
+    "temp_max": "29.69",
+    "temp_min": "17.41",
+    "hrel_avg": "76.28",
+    "pressao_avg": "1004.195",
+    "pnmm_avg": "1020.753",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-10 00:00:00",
+    "temp_avg": "20.92",
+    "temp_max": "28.4",
+    "temp_min": "17.52",
+    "hrel_avg": "76.86",
+    "pressao_avg": "1002.102",
+    "pnmm_avg": "1018.665",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-11 00:00:00",
+    "temp_avg": "19.58",
+    "temp_max": "26.28",
+    "temp_min": "16.9",
+    "hrel_avg": "83.3",
+    "pressao_avg": "998.4531",
+    "pnmm_avg": "1015.031",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2020-08-12 00:00:00",
+    "temp_avg": "20.34",
+    "temp_max": "27.94",
+    "temp_min": "17.21",
+    "hrel_avg": "82.8",
+    "pressao_avg": "997.4363",
+    "pnmm_avg": "1013.955",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-13 00:00:00",
+    "temp_avg": "21.93",
+    "temp_max": "30.04",
+    "temp_min": "16.9",
+    "hrel_avg": "73.11",
+    "pressao_avg": "1000.868",
+    "pnmm_avg": "1017.355",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-08-14 00:00:00",
+    "temp_avg": "21.06",
+    "temp_max": "28.41",
+    "temp_min": "15.98",
+    "hrel_avg": "69.49",
+    "pressao_avg": "1003.567",
+    "pnmm_avg": "1020.148",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-15 00:00:00",
+    "temp_avg": "20.74",
+    "temp_max": "27.83",
+    "temp_min": "15.43",
+    "hrel_avg": "70.69",
+    "pressao_avg": "1002.736",
+    "pnmm_avg": "1019.322",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-16 00:00:00",
+    "temp_avg": "20.77",
+    "temp_max": "26.75",
+    "temp_min": "15.83",
+    "hrel_avg": "69.37",
+    "pressao_avg": "1003.06",
+    "pnmm_avg": "1019.648",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-17 00:00:00",
+    "temp_avg": "20.25",
+    "temp_max": "26.73",
+    "temp_min": "15.36",
+    "hrel_avg": "74.12",
+    "pressao_avg": "1003.427",
+    "pnmm_avg": "1020.05",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2020-08-18 00:00:00",
+    "temp_avg": "22.55",
+    "temp_max": "27.55",
+    "temp_min": "19.47",
+    "hrel_avg": "79.75",
+    "pressao_avg": "1002.543",
+    "pnmm_avg": "1019.02",
+    "precip_tot": "0.4"
+  },
+  {
+    "timestamp": "2020-08-19 00:00:00",
+    "temp_avg": "22.71",
+    "temp_max": "27.6",
+    "temp_min": "20.23",
+    "hrel_avg": "83.2",
+    "pressao_avg": "1001.524",
+    "pnmm_avg": "1017.975",
+    "precip_tot": "5.2"
+  },
+  {
+    "timestamp": "2020-08-20 00:00:00",
+    "temp_avg": "23.78",
+    "temp_max": "31.3",
+    "temp_min": "18.97",
+    "hrel_avg": "70.29",
+    "pressao_avg": "996.4612",
+    "pnmm_avg": "1012.772",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-21 00:00:00",
+    "temp_avg": "20.46",
+    "temp_max": "22.07",
+    "temp_min": "18.79",
+    "hrel_avg": "94.1",
+    "pressao_avg": "995.0452",
+    "pnmm_avg": "1011.516",
+    "precip_tot": "20.5"
+  },
+  {
+    "timestamp": "2020-08-22 00:00:00",
+    "temp_avg": "21.55",
+    "temp_max": "27.34",
+    "temp_min": "18.14",
+    "hrel_avg": "77.98",
+    "pressao_avg": "1002.866",
+    "pnmm_avg": "1019.405",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-23 00:00:00",
+    "temp_avg": "21.37",
+    "temp_max": "28.98",
+    "temp_min": "16.34",
+    "hrel_avg": "72.36",
+    "pressao_avg": "1008.641",
+    "pnmm_avg": "1025.287",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-24 00:00:00",
+    "temp_avg": "21.88",
+    "temp_max": "31.14",
+    "temp_min": "16.08",
+    "hrel_avg": "69.43",
+    "pressao_avg": "1006.855",
+    "pnmm_avg": "1023.445",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-25 00:00:00",
+    "temp_avg": "23.86",
+    "temp_max": "33.56",
+    "temp_min": "16.25",
+    "hrel_avg": "64.85",
+    "pressao_avg": "1001.534",
+    "pnmm_avg": "1017.927",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-26 00:00:00",
+    "temp_avg": "21.89",
+    "temp_max": "30.55",
+    "temp_min": "16.59",
+    "hrel_avg": "74.7",
+    "pressao_avg": "1002.258",
+    "pnmm_avg": "1018.771",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-27 00:00:00",
+    "temp_avg": "22.9",
+    "temp_max": "32.53",
+    "temp_min": "17.98",
+    "hrel_avg": "79.67",
+    "pressao_avg": "1004.94",
+    "pnmm_avg": "1021.44",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-28 00:00:00",
+    "temp_avg": "22.65",
+    "temp_max": "28.98",
+    "temp_min": "19.13",
+    "hrel_avg": "81.3",
+    "pressao_avg": "1005.176",
+    "pnmm_avg": "1021.692",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-08-29 00:00:00",
+    "temp_avg": "20.43",
+    "temp_max": "24.98",
+    "temp_min": "15.22",
+    "hrel_avg": "69.62",
+    "pressao_avg": "1000.619",
+    "pnmm_avg": "1017.184",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2020-08-30 00:00:00",
+    "temp_avg": "18.21",
+    "temp_max": "24.46",
+    "temp_min": "13.29",
+    "hrel_avg": "68.02",
+    "pressao_avg": "999.486",
+    "pnmm_avg": "1016.162",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-08-31 00:00:00",
+    "temp_avg": "18.95",
+    "temp_max": "28.62",
+    "temp_min": "11.87",
+    "hrel_avg": "61.4",
+    "pressao_avg": "1001.348",
+    "pnmm_avg": "1018.015",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-01 00:00:00",
+    "temp_avg": "21.18",
+    "temp_max": "31.6",
+    "temp_min": "12.45",
+    "hrel_avg": "46.27",
+    "pressao_avg": "1002.673",
+    "pnmm_avg": "1019.237",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-02 00:00:00",
+    "temp_avg": "19.81",
+    "temp_max": "27.42",
+    "temp_min": "14.8",
+    "hrel_avg": "63.58",
+    "pressao_avg": "1000.895",
+    "pnmm_avg": "1017.503",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-03 00:00:00",
+    "temp_avg": "22.91",
+    "temp_max": "33.78",
+    "temp_min": "14.95",
+    "hrel_avg": "58.88",
+    "pressao_avg": "1000.823",
+    "pnmm_avg": "1017.258",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-04 00:00:00",
+    "temp_avg": "25.55",
+    "temp_max": "37.36",
+    "temp_min": "15.41",
+    "hrel_avg": "44.89",
+    "pressao_avg": "1003.786",
+    "pnmm_avg": "1020.125",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-05 00:00:00",
+    "temp_avg": "23.19",
+    "temp_max": "33.73",
+    "temp_min": "16.28",
+    "hrel_avg": "55.82",
+    "pressao_avg": "1005.804",
+    "pnmm_avg": "1022.304",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-06 00:00:00",
+    "temp_avg": "22.98",
+    "temp_max": "32.05",
+    "temp_min": "16.77",
+    "hrel_avg": "65.69",
+    "pressao_avg": "1003.376",
+    "pnmm_avg": "1019.847",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-07 00:00:00",
+    "temp_avg": "26.11",
+    "temp_max": "36.43",
+    "temp_min": "16.7",
+    "hrel_avg": "52.19",
+    "pressao_avg": "1000.388",
+    "pnmm_avg": "1016.638",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-08 00:00:00",
+    "temp_avg": "26.12",
+    "temp_max": "34.14",
+    "temp_min": "18.9",
+    "hrel_avg": "37.75",
+    "pressao_avg": "1001.897",
+    "pnmm_avg": "1018.168",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-09 00:00:00",
+    "temp_avg": "25.06",
+    "temp_max": "34.41",
+    "temp_min": "18.35",
+    "hrel_avg": "32.37",
+    "pressao_avg": "1003.449",
+    "pnmm_avg": "1019.804",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-10 00:00:00",
+    "temp_avg": "24.88",
+    "temp_max": "35",
+    "temp_min": "17.34",
+    "hrel_avg": "37.95",
+    "pressao_avg": "1004.437",
+    "pnmm_avg": "1020.82",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-11 00:00:00",
+    "temp_avg": "23.66",
+    "temp_max": "34.64",
+    "temp_min": "15.59",
+    "hrel_avg": "48.99",
+    "pressao_avg": "1002.963",
+    "pnmm_avg": "1019.391",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-12 00:00:00",
+    "temp_avg": "23.06",
+    "temp_max": "33.76",
+    "temp_min": "15.29",
+    "hrel_avg": "54.93",
+    "pressao_avg": "999.2844",
+    "pnmm_avg": "1015.684",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-13 00:00:00",
+    "temp_avg": "26.62",
+    "temp_max": "38.46",
+    "temp_min": "16.49",
+    "hrel_avg": "46.38",
+    "pressao_avg": "999.6716",
+    "pnmm_avg": "1015.885",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-14 00:00:00",
+    "temp_avg": "25.49",
+    "temp_max": "35.94",
+    "temp_min": "20.55",
+    "hrel_avg": "53.27",
+    "pressao_avg": "1002.332",
+    "pnmm_avg": "1018.645",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-15 00:00:00",
+    "temp_avg": "23.12",
+    "temp_max": "29.21",
+    "temp_min": "19.03",
+    "hrel_avg": "70.7",
+    "pressao_avg": "1004.323",
+    "pnmm_avg": "1020.798",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-16 00:00:00",
+    "temp_avg": "22.39",
+    "temp_max": "30.77",
+    "temp_min": "18.23",
+    "hrel_avg": "68.7",
+    "pressao_avg": "1005.212",
+    "pnmm_avg": "1021.743",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-17 00:00:00",
+    "temp_avg": "21.39",
+    "temp_max": "31.44",
+    "temp_min": "15.34",
+    "hrel_avg": "70.08",
+    "pressao_avg": "1001.727",
+    "pnmm_avg": "1018.261",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-18 00:00:00",
+    "temp_avg": "20.6",
+    "temp_max": "27.1",
+    "temp_min": "17.13",
+    "hrel_avg": "72.83",
+    "pressao_avg": "995.916",
+    "pnmm_avg": "1012.394",
+    "precip_tot": "0.5"
+  },
+  {
+    "timestamp": "2020-09-19 00:00:00",
+    "temp_avg": "18.7",
+    "temp_max": "24.99",
+    "temp_min": "15.77",
+    "hrel_avg": "80.3",
+    "pressao_avg": "992.2162",
+    "pnmm_avg": "1008.741",
+    "precip_tot": "16.1"
+  },
+  {
+    "timestamp": "2020-09-20 00:00:00",
+    "temp_avg": "18.53",
+    "temp_max": "20.79",
+    "temp_min": "17.09",
+    "hrel_avg": "94.7",
+    "pressao_avg": "1000.311",
+    "pnmm_avg": "1016.979",
+    "precip_tot": "19.1"
+  },
+  {
+    "timestamp": "2020-09-21 00:00:00",
+    "temp_avg": "20.26",
+    "temp_max": "24.27",
+    "temp_min": "17.98",
+    "hrel_avg": "84.7",
+    "pressao_avg": "1003.836",
+    "pnmm_avg": "1020.464",
+    "precip_tot": "0.6"
+  },
+  {
+    "timestamp": "2020-09-22 00:00:00",
+    "temp_avg": "19.82",
+    "temp_max": "24.99",
+    "temp_min": "16.08",
+    "hrel_avg": "77.47",
+    "pressao_avg": "1004.735",
+    "pnmm_avg": "1021.404",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-23 00:00:00",
+    "temp_avg": "20.38",
+    "temp_max": "26.85",
+    "temp_min": "15.83",
+    "hrel_avg": "77.91",
+    "pressao_avg": "1001.442",
+    "pnmm_avg": "1018.025",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-24 00:00:00",
+    "temp_avg": "20.19",
+    "temp_max": "24.3",
+    "temp_min": "17.73",
+    "hrel_avg": "84.1",
+    "pressao_avg": "999.7244",
+    "pnmm_avg": "1016.289",
+    "precip_tot": "3.1"
+  },
+  {
+    "timestamp": "2020-09-25 00:00:00",
+    "temp_avg": "18.28",
+    "temp_max": "22.56",
+    "temp_min": "15.67",
+    "hrel_avg": "78.21",
+    "pressao_avg": "1004.273",
+    "pnmm_avg": "1021.023",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-26 00:00:00",
+    "temp_avg": "16.58",
+    "temp_max": "21.24",
+    "temp_min": "13.48",
+    "hrel_avg": "70.42",
+    "pressao_avg": "1011.069",
+    "pnmm_avg": "1028.032",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-27 00:00:00",
+    "temp_avg": "15.96",
+    "temp_max": "21.19",
+    "temp_min": "11",
+    "hrel_avg": "78.01",
+    "pressao_avg": "1009.602",
+    "pnmm_avg": "1026.578",
+    "precip_tot": "3.2"
+  },
+  {
+    "timestamp": "2020-09-28 00:00:00",
+    "temp_avg": "18.22",
+    "temp_max": "23.79",
+    "temp_min": "14.71",
+    "hrel_avg": "82",
+    "pressao_avg": "1003.285",
+    "pnmm_avg": "1020.022",
+    "precip_tot": "0.6"
+  },
+  {
+    "timestamp": "2020-09-29 00:00:00",
+    "temp_avg": "17.85",
+    "temp_max": "26.39",
+    "temp_min": "12.25",
+    "hrel_avg": "78.06",
+    "pressao_avg": "1002.369",
+    "pnmm_avg": "1019.115",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-09-30 00:00:00",
+    "temp_avg": "19.23",
+    "temp_max": "28.38",
+    "temp_min": "13.07",
+    "hrel_avg": "71.59",
+    "pressao_avg": "1002.372",
+    "pnmm_avg": "1019.04",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-01 00:00:00",
+    "temp_avg": "17.61",
+    "temp_max": "24.54",
+    "temp_min": "14.25",
+    "hrel_avg": "76.23",
+    "pressao_avg": "1003.245",
+    "pnmm_avg": "1020.017",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-02 00:00:00",
+    "temp_avg": "17.26",
+    "temp_max": "21.87",
+    "temp_min": "14.4",
+    "hrel_avg": "79.08",
+    "pressao_avg": "1000.525",
+    "pnmm_avg": "1017.271",
+    "precip_tot": "2.1"
+  },
+  {
+    "timestamp": "2020-10-03 00:00:00",
+    "temp_avg": "14.98",
+    "temp_max": "17.56",
+    "temp_min": "11.78",
+    "hrel_avg": "86.9",
+    "pressao_avg": "992.3408",
+    "pnmm_avg": "1009.083",
+    "precip_tot": "15.1"
+  },
+  {
+    "timestamp": "2020-10-04 00:00:00",
+    "temp_avg": "14.45",
+    "temp_max": "19.82",
+    "temp_min": "10.58",
+    "hrel_avg": "80.1",
+    "pressao_avg": "998.2705",
+    "pnmm_avg": "1015.145",
+    "precip_tot": "0.8"
+  },
+  {
+    "timestamp": "2020-10-05 00:00:00",
+    "temp_avg": "15.78",
+    "temp_max": "20.18",
+    "temp_min": "13.43",
+    "hrel_avg": "78.75",
+    "pressao_avg": "1000.165",
+    "pnmm_avg": "1016.991",
+    "precip_tot": "1.8"
+  },
+  {
+    "timestamp": "2020-10-06 00:00:00",
+    "temp_avg": "16.11",
+    "temp_max": "21.19",
+    "temp_min": "11.61",
+    "hrel_avg": "84.6",
+    "pressao_avg": "1006.306",
+    "pnmm_avg": "1023.218",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2020-10-07 00:00:00",
+    "temp_avg": "18.71",
+    "temp_max": "23.09",
+    "temp_min": "16.13",
+    "hrel_avg": "87.5",
+    "pressao_avg": "1010.139",
+    "pnmm_avg": "1026.961",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-10-08 00:00:00",
+    "temp_avg": "19.07",
+    "temp_max": "26.65",
+    "temp_min": "13.96",
+    "hrel_avg": "81.3",
+    "pressao_avg": "1008.979",
+    "pnmm_avg": "1025.765",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-09 00:00:00",
+    "temp_avg": "17.62",
+    "temp_max": "23.89",
+    "temp_min": "14.63",
+    "hrel_avg": "87.4",
+    "pressao_avg": "1007.294",
+    "pnmm_avg": "1024.134",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-10 00:00:00",
+    "temp_avg": "17.78",
+    "temp_max": "24.9",
+    "temp_min": "14.18",
+    "hrel_avg": "83.3",
+    "pressao_avg": "1008.596",
+    "pnmm_avg": "1025.449",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-11 00:00:00",
+    "temp_avg": "19.68",
+    "temp_max": "26.91",
+    "temp_min": "15.07",
+    "hrel_avg": "72.79",
+    "pressao_avg": "1008.052",
+    "pnmm_avg": "1024.786",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-12 00:00:00",
+    "temp_avg": "18.68",
+    "temp_max": "24.57",
+    "temp_min": "14.2",
+    "hrel_avg": "45.51",
+    "pressao_avg": "1009.526",
+    "pnmm_avg": "1026.341",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-13 00:00:00",
+    "temp_avg": "16.94",
+    "temp_max": "24.5",
+    "temp_min": "12.14",
+    "hrel_avg": "51.94",
+    "pressao_avg": "1010.081",
+    "pnmm_avg": "1027.007",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-14 00:00:00",
+    "temp_avg": "14.43",
+    "temp_max": "20.78",
+    "temp_min": "10.19",
+    "hrel_avg": "81.3",
+    "pressao_avg": "1005.691",
+    "pnmm_avg": "1022.692",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-15 00:00:00",
+    "temp_avg": "13.49",
+    "temp_max": "18.96",
+    "temp_min": "9.11",
+    "hrel_avg": "77.14",
+    "pressao_avg": "1003.933",
+    "pnmm_avg": "1020.96",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-16 00:00:00",
+    "temp_avg": "13.68",
+    "temp_max": "20.26",
+    "temp_min": "8.77",
+    "hrel_avg": "76.17",
+    "pressao_avg": "1005.37",
+    "pnmm_avg": "1022.411",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-17 00:00:00",
+    "temp_avg": "14.5",
+    "temp_max": "22.49",
+    "temp_min": "9.44",
+    "hrel_avg": "61.69",
+    "pressao_avg": "1004.191",
+    "pnmm_avg": "1021.165",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-18 00:00:00",
+    "temp_avg": "14.87",
+    "temp_max": "23.86",
+    "temp_min": "7.741",
+    "hrel_avg": "75.27",
+    "pressao_avg": "1002.739",
+    "pnmm_avg": "1019.668",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-19 00:00:00",
+    "temp_avg": "17.68",
+    "temp_max": "24.51",
+    "temp_min": "10.91",
+    "hrel_avg": "61.22",
+    "pressao_avg": "1002.137",
+    "pnmm_avg": "1018.889",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-20 00:00:00",
+    "temp_avg": "17.92",
+    "temp_max": "19.99",
+    "temp_min": "16.6",
+    "hrel_avg": "74.3",
+    "pressao_avg": "995.4195",
+    "pnmm_avg": "1012.041",
+    "precip_tot": "24.5"
+  },
+  {
+    "timestamp": "2020-10-21 00:00:00",
+    "temp_avg": "16.26",
+    "temp_max": "17.52",
+    "temp_min": "15.59",
+    "hrel_avg": "96",
+    "pressao_avg": "987.373",
+    "pnmm_avg": "1003.956",
+    "precip_tot": "53.8"
+  },
+  {
+    "timestamp": "2020-10-22 00:00:00",
+    "temp_avg": "16.13",
+    "temp_max": "19.46",
+    "temp_min": "14.04",
+    "hrel_avg": "87",
+    "pressao_avg": "992.2798",
+    "pnmm_avg": "1008.953",
+    "precip_tot": "5.1"
+  },
+  {
+    "timestamp": "2020-10-23 00:00:00",
+    "temp_avg": "15.23",
+    "temp_max": "19.27",
+    "temp_min": "12.54",
+    "hrel_avg": "84.4",
+    "pressao_avg": "998.2166",
+    "pnmm_avg": "1015.043",
+    "precip_tot": "0.7"
+  },
+  {
+    "timestamp": "2020-10-24 00:00:00",
+    "temp_avg": "14.47",
+    "temp_max": "19.88",
+    "temp_min": "10.72",
+    "hrel_avg": "82.6",
+    "pressao_avg": "1008.535",
+    "pnmm_avg": "1025.581",
+    "precip_tot": "2.2"
+  },
+  {
+    "timestamp": "2020-10-25 00:00:00",
+    "temp_avg": "13.84",
+    "temp_max": "17.52",
+    "temp_min": "9.49",
+    "hrel_avg": "87.1",
+    "pressao_avg": "1009.838",
+    "pnmm_avg": "1026.944",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-26 00:00:00",
+    "temp_avg": "14.87",
+    "temp_max": "17.32",
+    "temp_min": "11.1",
+    "hrel_avg": "89.5",
+    "pressao_avg": "1002",
+    "pnmm_avg": "1018.912",
+    "precip_tot": "17"
+  },
+  {
+    "timestamp": "2020-10-27 00:00:00",
+    "temp_avg": "12.69",
+    "temp_max": "18.29",
+    "temp_min": "8.4",
+    "hrel_avg": "81.2",
+    "pressao_avg": "1007.143",
+    "pnmm_avg": "1024.273",
+    "precip_tot": "3.7"
+  },
+  {
+    "timestamp": "2020-10-28 00:00:00",
+    "temp_avg": "13.59",
+    "temp_max": "17.86",
+    "temp_min": "10.33",
+    "hrel_avg": "88.7",
+    "pressao_avg": "1006.561",
+    "pnmm_avg": "1023.627",
+    "precip_tot": "4.7"
+  },
+  {
+    "timestamp": "2020-10-29 00:00:00",
+    "temp_avg": "15.32",
+    "temp_max": "18.75",
+    "temp_min": "10",
+    "hrel_avg": "86.9",
+    "pressao_avg": "1008.022",
+    "pnmm_avg": "1025.008",
+    "precip_tot": "2.7"
+  },
+  {
+    "timestamp": "2020-10-30 00:00:00",
+    "temp_avg": "13.61",
+    "temp_max": "21.14",
+    "temp_min": "8.04",
+    "hrel_avg": "85.7",
+    "pressao_avg": "1010.759",
+    "pnmm_avg": "1027.896",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-10-31 00:00:00",
+    "temp_avg": "15.8",
+    "temp_max": "24.65",
+    "temp_min": "9.51",
+    "hrel_avg": "84.1",
+    "pressao_avg": "1010.133",
+    "pnmm_avg": "1027.131",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-11-01 00:00:00",
+    "temp_avg": "16.42",
+    "temp_max": "22.49",
+    "temp_min": "11.9",
+    "hrel_avg": "88.2",
+    "pressao_avg": "1011.276",
+    "pnmm_avg": "1028.253",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-02 00:00:00",
+    "temp_avg": "18.12",
+    "temp_max": "19.65",
+    "temp_min": "16.31",
+    "hrel_avg": "90.5",
+    "pressao_avg": "1010.621",
+    "pnmm_avg": "1027.485",
+    "precip_tot": "0.8"
+  },
+  {
+    "timestamp": "2020-11-03 00:00:00",
+    "temp_avg": "17.19",
+    "temp_max": "20.43",
+    "temp_min": "13.08",
+    "hrel_avg": "93",
+    "pressao_avg": "1009.783",
+    "pnmm_avg": "1026.689",
+    "precip_tot": "1.7"
+  },
+  {
+    "timestamp": "2020-11-04 00:00:00",
+    "temp_avg": "12.85",
+    "temp_max": "17.98",
+    "temp_min": "8.84",
+    "hrel_avg": "77.28",
+    "pressao_avg": "1012.548",
+    "pnmm_avg": "1029.76",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-05 00:00:00",
+    "temp_avg": "11.21",
+    "temp_max": "13.92",
+    "temp_min": "8.1",
+    "hrel_avg": "68.42",
+    "pressao_avg": "1003.855",
+    "pnmm_avg": "1021.018",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-11-06 00:00:00",
+    "temp_avg": "14.46",
+    "temp_max": "16.63",
+    "temp_min": "12.08",
+    "hrel_avg": "78.07",
+    "pressao_avg": "997.1406",
+    "pnmm_avg": "1013.994",
+    "precip_tot": "3"
+  },
+  {
+    "timestamp": "2020-11-07 00:00:00",
+    "temp_avg": "15.24",
+    "temp_max": "16.98",
+    "temp_min": "13.93",
+    "hrel_avg": "80.9",
+    "pressao_avg": "994.781",
+    "pnmm_avg": "1011.548",
+    "precip_tot": "11.7"
+  },
+  {
+    "timestamp": "2020-11-08 00:00:00",
+    "temp_avg": "15.22",
+    "temp_max": "18.67",
+    "temp_min": "12.96",
+    "hrel_avg": "88",
+    "pressao_avg": "1001.062",
+    "pnmm_avg": "1017.936",
+    "precip_tot": "3.8"
+  },
+  {
+    "timestamp": "2020-11-09 00:00:00",
+    "temp_avg": "16.03",
+    "temp_max": "19.39",
+    "temp_min": "13.77",
+    "hrel_avg": "88.8",
+    "pressao_avg": "1003.543",
+    "pnmm_avg": "1020.411",
+    "precip_tot": "7.9"
+  },
+  {
+    "timestamp": "2020-11-10 00:00:00",
+    "temp_avg": "15.32",
+    "temp_max": "19.65",
+    "temp_min": "12.93",
+    "hrel_avg": "89.9",
+    "pressao_avg": "1008.466",
+    "pnmm_avg": "1025.46",
+    "precip_tot": "5.7"
+  },
+  {
+    "timestamp": "2020-11-11 00:00:00",
+    "temp_avg": "14.54",
+    "temp_max": "20.83",
+    "temp_min": "11.7",
+    "hrel_avg": "86",
+    "pressao_avg": "1011.498",
+    "pnmm_avg": "1028.59",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-11-12 00:00:00",
+    "temp_avg": "15.27",
+    "temp_max": "21.15",
+    "temp_min": "10.98",
+    "hrel_avg": "77.18",
+    "pressao_avg": "1008.297",
+    "pnmm_avg": "1025.292",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-13 00:00:00",
+    "temp_avg": "15.92",
+    "temp_max": "20.57",
+    "temp_min": "12.4",
+    "hrel_avg": "76.44",
+    "pressao_avg": "1005.568",
+    "pnmm_avg": "1022.478",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-14 00:00:00",
+    "temp_avg": "16.19",
+    "temp_max": "21.72",
+    "temp_min": "13.55",
+    "hrel_avg": "72.34",
+    "pressao_avg": "1003.907",
+    "pnmm_avg": "1020.773",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-15 00:00:00",
+    "temp_avg": "16.96",
+    "temp_max": "20.09",
+    "temp_min": "13.38",
+    "hrel_avg": "84.6",
+    "pressao_avg": "1003.611",
+    "pnmm_avg": "1020.427",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-16 00:00:00",
+    "temp_avg": "18.45",
+    "temp_max": "21.58",
+    "temp_min": "15.96",
+    "hrel_avg": "87.1",
+    "pressao_avg": "1005.661",
+    "pnmm_avg": "1022.424",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-17 00:00:00",
+    "temp_avg": "15.88",
+    "temp_max": "20.12",
+    "temp_min": "11.87",
+    "hrel_avg": "83.1",
+    "pressao_avg": "1010.13",
+    "pnmm_avg": "1027.118",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-18 00:00:00",
+    "temp_avg": "16",
+    "temp_max": "24.75",
+    "temp_min": "10.16",
+    "hrel_avg": "80",
+    "pressao_avg": "1009.666",
+    "pnmm_avg": "1026.644",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-19 00:00:00",
+    "temp_avg": "15.93",
+    "temp_max": "21.8",
+    "temp_min": "10.69",
+    "hrel_avg": "84.5",
+    "pressao_avg": "1010.924",
+    "pnmm_avg": "1027.924",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-20 00:00:00",
+    "temp_avg": "19.85",
+    "temp_max": "26.12",
+    "temp_min": "15.43",
+    "hrel_avg": "64.17",
+    "pressao_avg": "1015.138",
+    "pnmm_avg": "1031.978",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-21 00:00:00",
+    "temp_avg": "16.22",
+    "temp_max": "20.38",
+    "temp_min": "13.82",
+    "hrel_avg": "59.87",
+    "pressao_avg": "1013.689",
+    "pnmm_avg": "1030.717",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-22 00:00:00",
+    "temp_avg": "14.62",
+    "temp_max": "20.16",
+    "temp_min": "10.22",
+    "hrel_avg": "55.96",
+    "pressao_avg": "1010.647",
+    "pnmm_avg": "1027.721",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-23 00:00:00",
+    "temp_avg": "13.21",
+    "temp_max": "21.53",
+    "temp_min": "7.912",
+    "hrel_avg": "69.12",
+    "pressao_avg": "1012.255",
+    "pnmm_avg": "1029.443",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-24 00:00:00",
+    "temp_avg": "12.37",
+    "temp_max": "20.42",
+    "temp_min": "7.381",
+    "hrel_avg": "77.28",
+    "pressao_avg": "1011.461",
+    "pnmm_avg": "1028.687",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-25 00:00:00",
+    "temp_avg": "12.55",
+    "temp_max": "19.88",
+    "temp_min": "7.537",
+    "hrel_avg": "79.2",
+    "pressao_avg": "1006.189",
+    "pnmm_avg": "1023.314",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-11-26 00:00:00",
+    "temp_avg": "11.53",
+    "temp_max": "13.53",
+    "temp_min": "10.19",
+    "hrel_avg": "92.8",
+    "pressao_avg": "995.5528",
+    "pnmm_avg": "1012.553",
+    "precip_tot": "27.4"
+  },
+  {
+    "timestamp": "2020-11-27 00:00:00",
+    "temp_avg": "12.5",
+    "temp_max": "14.69",
+    "temp_min": "10.21",
+    "hrel_avg": "74.71",
+    "pressao_avg": "991.9312",
+    "pnmm_avg": "1008.813",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-28 00:00:00",
+    "temp_avg": "12.74",
+    "temp_max": "18.36",
+    "temp_min": "8.61",
+    "hrel_avg": "78.31",
+    "pressao_avg": "994.6268",
+    "pnmm_avg": "1011.541",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-11-29 00:00:00",
+    "temp_avg": "11.41",
+    "temp_max": "16.87",
+    "temp_min": "7.667",
+    "hrel_avg": "87.6",
+    "pressao_avg": "991.563",
+    "pnmm_avg": "1008.505",
+    "precip_tot": "13.1"
+  },
+  {
+    "timestamp": "2020-11-30 00:00:00",
+    "temp_avg": "12.95",
+    "temp_max": "15.72",
+    "temp_min": "9.81",
+    "hrel_avg": "75.67",
+    "pressao_avg": "998.0432",
+    "pnmm_avg": "1015.002",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-12-01 00:00:00",
+    "temp_avg": "14.72",
+    "temp_max": "19.47",
+    "temp_min": "11.57",
+    "hrel_avg": "70.75",
+    "pressao_avg": "1005.124",
+    "pnmm_avg": "1022.097",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-02 00:00:00",
+    "temp_avg": "14.32",
+    "temp_max": "19.71",
+    "temp_min": "8.77",
+    "hrel_avg": "61.5",
+    "pressao_avg": "1007.874",
+    "pnmm_avg": "1024.917",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-03 00:00:00",
+    "temp_avg": "11.14",
+    "temp_max": "18.6",
+    "temp_min": "5.987",
+    "hrel_avg": "62.83",
+    "pressao_avg": "1003.586",
+    "pnmm_avg": "1020.75",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-04 00:00:00",
+    "temp_avg": "10.17",
+    "temp_max": "14.68",
+    "temp_min": "4.669",
+    "hrel_avg": "70.06",
+    "pressao_avg": "999.8067",
+    "pnmm_avg": "1016.965",
+    "precip_tot": "1.1"
+  },
+  {
+    "timestamp": "2020-12-05 00:00:00",
+    "temp_avg": "7.261",
+    "temp_max": "11.33",
+    "temp_min": "4.876",
+    "hrel_avg": "91",
+    "pressao_avg": "989.2606",
+    "pnmm_avg": "1006.414",
+    "precip_tot": "15"
+  },
+  {
+    "timestamp": "2020-12-06 00:00:00",
+    "temp_avg": "7.116",
+    "temp_max": "12.64",
+    "temp_min": "3.355",
+    "hrel_avg": "90.2",
+    "pressao_avg": "996.4393",
+    "pnmm_avg": "1013.727",
+    "precip_tot": "7.1"
+  },
+  {
+    "timestamp": "2020-12-07 00:00:00",
+    "temp_avg": "8.83",
+    "temp_max": "11.68",
+    "temp_min": "5.549",
+    "hrel_avg": "95.8",
+    "pressao_avg": "1000.826",
+    "pnmm_avg": "1018.084",
+    "precip_tot": "3"
+  },
+  {
+    "timestamp": "2020-12-08 00:00:00",
+    "temp_avg": "12.32",
+    "temp_max": "14.59",
+    "temp_min": "11.15",
+    "hrel_avg": "90.9",
+    "pressao_avg": "1000.138",
+    "pnmm_avg": "1017.17",
+    "precip_tot": "7.1"
+  },
+  {
+    "timestamp": "2020-12-09 00:00:00",
+    "temp_avg": "10.48",
+    "temp_max": "13.24",
+    "temp_min": "7.449",
+    "hrel_avg": "90.1",
+    "pressao_avg": "1003.959",
+    "pnmm_avg": "1021.167",
+    "precip_tot": "6.3"
+  },
+  {
+    "timestamp": "2020-12-10 00:00:00",
+    "temp_avg": "9.57",
+    "temp_max": "13.09",
+    "temp_min": "5.853",
+    "hrel_avg": "91.2",
+    "pressao_avg": "1007.209",
+    "pnmm_avg": "1024.531",
+    "precip_tot": "2.1"
+  },
+  {
+    "timestamp": "2020-12-11 00:00:00",
+    "temp_avg": "15.03",
+    "temp_max": "15.68",
+    "temp_min": "12.52",
+    "hrel_avg": "100",
+    "pressao_avg": "1002.068",
+    "pnmm_avg": "1018.97",
+    "precip_tot": "27.6"
+  },
+  {
+    "timestamp": "2020-12-12 00:00:00",
+    "temp_avg": "15.12",
+    "temp_max": "15.57",
+    "temp_min": "14.71",
+    "hrel_avg": "99.9",
+    "pressao_avg": "1001.562",
+    "pnmm_avg": "1018.45",
+    "precip_tot": "22.9"
+  },
+  {
+    "timestamp": "2020-12-13 00:00:00",
+    "temp_avg": "14.71",
+    "temp_max": "17.08",
+    "temp_min": "13.77",
+    "hrel_avg": "93.1",
+    "pressao_avg": "1004.472",
+    "pnmm_avg": "1021.434",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-12-14 00:00:00",
+    "temp_avg": "14.72",
+    "temp_max": "16.54",
+    "temp_min": "13.86",
+    "hrel_avg": "97.1",
+    "pressao_avg": "1000.67",
+    "pnmm_avg": "1017.566",
+    "precip_tot": "2.4"
+  },
+  {
+    "timestamp": "2020-12-15 00:00:00",
+    "temp_avg": "13.4",
+    "temp_max": "16.77",
+    "temp_min": "10.69",
+    "hrel_avg": "95.1",
+    "pressao_avg": "996.9648",
+    "pnmm_avg": "1013.878",
+    "precip_tot": "18.4"
+  },
+  {
+    "timestamp": "2020-12-16 00:00:00",
+    "temp_avg": "11.61",
+    "temp_max": "14.14",
+    "temp_min": "8.63",
+    "hrel_avg": "85.4",
+    "pressao_avg": "1000.368",
+    "pnmm_avg": "1017.448",
+    "precip_tot": "0.7"
+  },
+  {
+    "timestamp": "2020-12-17 00:00:00",
+    "temp_avg": "11.53",
+    "temp_max": "13.44",
+    "temp_min": "7.515",
+    "hrel_avg": "92.7",
+    "pressao_avg": "998.5176",
+    "pnmm_avg": "1015.57",
+    "precip_tot": "17.2"
+  },
+  {
+    "timestamp": "2020-12-18 00:00:00",
+    "temp_avg": "8.59",
+    "temp_max": "13.59",
+    "temp_min": "5.442",
+    "hrel_avg": "89.1",
+    "pressao_avg": "1009.406",
+    "pnmm_avg": "1026.826",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2020-12-19 00:00:00",
+    "temp_avg": "10.53",
+    "temp_max": "15.79",
+    "temp_min": "6.573",
+    "hrel_avg": "82.7",
+    "pressao_avg": "1006.432",
+    "pnmm_avg": "1023.682",
+    "precip_tot": "5.4"
+  },
+  {
+    "timestamp": "2020-12-20 00:00:00",
+    "temp_avg": "12.98",
+    "temp_max": "17.31",
+    "temp_min": "8.99",
+    "hrel_avg": "89.4",
+    "pressao_avg": "1004.547",
+    "pnmm_avg": "1021.614",
+    "precip_tot": "4.3"
+  },
+  {
+    "timestamp": "2020-12-21 00:00:00",
+    "temp_avg": "12.04",
+    "temp_max": "17.02",
+    "temp_min": "8.49",
+    "hrel_avg": "89.4",
+    "pressao_avg": "1010.939",
+    "pnmm_avg": "1028.173",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-22 00:00:00",
+    "temp_avg": "13.88",
+    "temp_max": "15.46",
+    "temp_min": "12.67",
+    "hrel_avg": "91.8",
+    "pressao_avg": "1013.889",
+    "pnmm_avg": "1031.059",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2020-12-23 00:00:00",
+    "temp_avg": "13.63",
+    "temp_max": "19.31",
+    "temp_min": "9.64",
+    "hrel_avg": "83.3",
+    "pressao_avg": "1010.511",
+    "pnmm_avg": "1027.641",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-24 00:00:00",
+    "temp_avg": "11.66",
+    "temp_max": "13.35",
+    "temp_min": "8.76",
+    "hrel_avg": "93.1",
+    "pressao_avg": "1010.581",
+    "pnmm_avg": "1027.831",
+    "precip_tot": "2.6"
+  },
+  {
+    "timestamp": "2020-12-25 00:00:00",
+    "temp_avg": "8.75",
+    "temp_max": "13.1",
+    "temp_min": "5.372",
+    "hrel_avg": "80.1",
+    "pressao_avg": "1011.433",
+    "pnmm_avg": "1028.879",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-26 00:00:00",
+    "temp_avg": "8.84",
+    "temp_max": "14.08",
+    "temp_min": "4.944",
+    "hrel_avg": "60.49",
+    "pressao_avg": "1012.266",
+    "pnmm_avg": "1029.72",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-27 00:00:00",
+    "temp_avg": "8.06",
+    "temp_max": "14.01",
+    "temp_min": "4.008",
+    "hrel_avg": "54.36",
+    "pressao_avg": "1014.277",
+    "pnmm_avg": "1031.816",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2020-12-28 00:00:00",
+    "temp_avg": "6.805",
+    "temp_max": "11.38",
+    "temp_min": "0.669",
+    "hrel_avg": "83.2",
+    "pressao_avg": "1003.46",
+    "pnmm_avg": "1020.893",
+    "precip_tot": "0.9"
+  },
+  {
+    "timestamp": "2020-12-29 00:00:00",
+    "temp_avg": "9.72",
+    "temp_max": "13.12",
+    "temp_min": "7.654",
+    "hrel_avg": "86.9",
+    "pressao_avg": "994.9312",
+    "pnmm_avg": "1012.032",
+    "precip_tot": "7"
+  },
+  {
+    "timestamp": "2020-12-30 00:00:00",
+    "temp_avg": "7.823",
+    "temp_max": "11.22",
+    "temp_min": "4.676",
+    "hrel_avg": "91.2",
+    "pressao_avg": "998.3936",
+    "pnmm_avg": "1015.671",
+    "precip_tot": "11.4"
+  },
+  {
+    "timestamp": "2020-12-31 00:00:00",
+    "temp_avg": "6.322",
+    "temp_max": "12.45",
+    "temp_min": "1.714",
+    "hrel_avg": "89.7",
+    "pressao_avg": "1006.909",
+    "pnmm_avg": "1024.431",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2021-01-01 00:00:00",
+    "temp_avg": "8.63",
+    "temp_max": "13.16",
+    "temp_min": "6.22",
+    "hrel_avg": "95.2",
+    "pressao_avg": "1003.551",
+    "pnmm_avg": "1020.867",
+    "precip_tot": "11.7"
+  },
+  {
+    "timestamp": "2021-01-02 00:00:00",
+    "temp_avg": "6.125",
+    "temp_max": "10.74",
+    "temp_min": "2.759",
+    "hrel_avg": "90.9",
+    "pressao_avg": "1002.536",
+    "pnmm_avg": "1019.992",
+    "precip_tot": "5.1"
+  },
+  {
+    "timestamp": "2021-01-03 00:00:00",
+    "temp_avg": "5.149",
+    "temp_max": "11.41",
+    "temp_min": "0.62",
+    "hrel_avg": "87.5",
+    "pressao_avg": "1004.944",
+    "pnmm_avg": "1022.506",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-01-04 00:00:00",
+    "temp_avg": "4.223",
+    "temp_max": "10.32",
+    "temp_min": "0.042",
+    "hrel_avg": "91.4",
+    "pressao_avg": "1005.359",
+    "pnmm_avg": "1022.987",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-01-05 00:00:00",
+    "temp_avg": "6.192",
+    "temp_max": "11.82",
+    "temp_min": "2.279",
+    "hrel_avg": "88.5",
+    "pressao_avg": "1000.412",
+    "pnmm_avg": "1017.827",
+    "precip_tot": "1.2"
+  },
+  {
+    "timestamp": "2021-01-06 00:00:00",
+    "temp_avg": "4.301",
+    "temp_max": "11.15",
+    "temp_min": "0.472",
+    "hrel_avg": "83.1",
+    "pressao_avg": "998.6473",
+    "pnmm_avg": "1016.153",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-01-07 00:00:00",
+    "temp_avg": "4.856",
+    "temp_max": "11.91",
+    "temp_min": "0.027",
+    "hrel_avg": "70.91",
+    "pressao_avg": "998.5493",
+    "pnmm_avg": "1016.018",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-08 00:00:00",
+    "temp_avg": "6.066",
+    "temp_max": "11.26",
+    "temp_min": "1.963",
+    "hrel_avg": "58.26",
+    "pressao_avg": "998.0441",
+    "pnmm_avg": "1015.426",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-09 00:00:00",
+    "temp_avg": "4.91",
+    "temp_max": "9.05",
+    "temp_min": "2.423",
+    "hrel_avg": "53.18",
+    "pressao_avg": "995.4711",
+    "pnmm_avg": "1012.881",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-10 00:00:00",
+    "temp_avg": "4.128",
+    "temp_max": "7.035",
+    "temp_min": "1.244",
+    "hrel_avg": "61.63",
+    "pressao_avg": "993.3613",
+    "pnmm_avg": "1010.783",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-11 00:00:00",
+    "temp_avg": "6.425",
+    "temp_max": "11.1",
+    "temp_min": "3.643",
+    "hrel_avg": "62",
+    "pressao_avg": "1000.574",
+    "pnmm_avg": "1017.977",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-12 00:00:00",
+    "temp_avg": "6.407",
+    "temp_max": "11.93",
+    "temp_min": "1.552",
+    "hrel_avg": "55.2",
+    "pressao_avg": "1009.862",
+    "pnmm_avg": "1027.429",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-13 00:00:00",
+    "temp_avg": "6.533",
+    "temp_max": "13.33",
+    "temp_min": "2.502",
+    "hrel_avg": "63.03",
+    "pressao_avg": "1016.216",
+    "pnmm_avg": "1033.886",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-14 00:00:00",
+    "temp_avg": "5.741",
+    "temp_max": "14.08",
+    "temp_min": "-0.402",
+    "hrel_avg": "76.07",
+    "pressao_avg": "1017.246",
+    "pnmm_avg": "1034.987",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-15 00:00:00",
+    "temp_avg": "4.922",
+    "temp_max": "11.72",
+    "temp_min": "0.193",
+    "hrel_avg": "87.6",
+    "pressao_avg": "1016.61",
+    "pnmm_avg": "1034.391",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-16 00:00:00",
+    "temp_avg": "7.617",
+    "temp_max": "15.71",
+    "temp_min": "1.851",
+    "hrel_avg": "78.36",
+    "pressao_avg": "1015.544",
+    "pnmm_avg": "1033.135",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-17 00:00:00",
+    "temp_avg": "7.442",
+    "temp_max": "14.76",
+    "temp_min": "2.706",
+    "hrel_avg": "70.6",
+    "pressao_avg": "1015.64",
+    "pnmm_avg": "1033.243",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-18 00:00:00",
+    "temp_avg": "7.268",
+    "temp_max": "16.06",
+    "temp_min": "1.44",
+    "hrel_avg": "72.63",
+    "pressao_avg": "1015.283",
+    "pnmm_avg": "1032.892",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-19 00:00:00",
+    "temp_avg": "8.92",
+    "temp_max": "18.39",
+    "temp_min": "2.742",
+    "hrel_avg": "67.83",
+    "pressao_avg": "1012.194",
+    "pnmm_avg": "1029.647",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-01-20 00:00:00",
+    "temp_avg": "8.44",
+    "temp_max": "14.01",
+    "temp_min": "2.227",
+    "hrel_avg": "80",
+    "pressao_avg": "1006.147",
+    "pnmm_avg": "1023.524",
+    "precip_tot": "0.6"
+  },
+  {
+    "timestamp": "2021-01-21 00:00:00",
+    "temp_avg": "12.06",
+    "temp_max": "13.91",
+    "temp_min": "10.1",
+    "hrel_avg": "93.3",
+    "pressao_avg": "993.8635",
+    "pnmm_avg": "1010.804",
+    "precip_tot": "14.6"
+  },
+  {
+    "timestamp": "2021-01-22 00:00:00",
+    "temp_avg": "13.09",
+    "temp_max": "14.28",
+    "temp_min": "11.78",
+    "hrel_avg": "96.4",
+    "pressao_avg": "999.1769",
+    "pnmm_avg": "1016.146",
+    "precip_tot": "10"
+  },
+  {
+    "timestamp": "2021-01-23 00:00:00",
+    "temp_avg": "11.28",
+    "temp_max": "14.11",
+    "temp_min": "9.07",
+    "hrel_avg": "84.3",
+    "pressao_avg": "1001.509",
+    "pnmm_avg": "1018.628",
+    "precip_tot": "6.7"
+  },
+  {
+    "timestamp": "2021-01-24 00:00:00",
+    "temp_avg": "11.67",
+    "temp_max": "14.05",
+    "temp_min": "9.18",
+    "hrel_avg": "96.6",
+    "pressao_avg": "1001.588",
+    "pnmm_avg": "1018.685",
+    "precip_tot": "23"
+  },
+  {
+    "timestamp": "2021-01-25 00:00:00",
+    "temp_avg": "12.28",
+    "temp_max": "13.87",
+    "temp_min": "10.65",
+    "hrel_avg": "96",
+    "pressao_avg": "1002.525",
+    "pnmm_avg": "1019.599",
+    "precip_tot": "5.3"
+  },
+  {
+    "timestamp": "2021-01-26 00:00:00",
+    "temp_avg": "13.88",
+    "temp_max": "14.45",
+    "temp_min": "13.1",
+    "hrel_avg": "99.9",
+    "pressao_avg": "1002.391",
+    "pnmm_avg": "1019.367",
+    "precip_tot": "14"
+  },
+  {
+    "timestamp": "2021-01-27 00:00:00",
+    "temp_avg": "14.94",
+    "temp_max": "15.89",
+    "temp_min": "14.28",
+    "hrel_avg": "99.5",
+    "pressao_avg": "1010.097",
+    "pnmm_avg": "1027.14",
+    "precip_tot": "12"
+  },
+  {
+    "timestamp": "2021-01-28 00:00:00",
+    "temp_avg": "14.3",
+    "temp_max": "15.3",
+    "temp_min": "13.09",
+    "hrel_avg": "97.4",
+    "pressao_avg": "1013.279",
+    "pnmm_avg": "1030.414",
+    "precip_tot": "0.7"
+  },
+  {
+    "timestamp": "2021-01-29 00:00:00",
+    "temp_avg": "13.71",
+    "temp_max": "18.1",
+    "temp_min": "12.19",
+    "hrel_avg": "95.6",
+    "pressao_avg": "1010.797",
+    "pnmm_avg": "1027.926",
+    "precip_tot": "0.3"
+  },
+  {
+    "timestamp": "2021-01-30 00:00:00",
+    "temp_avg": "13.05",
+    "temp_max": "15.09",
+    "temp_min": "12.14",
+    "hrel_avg": "96.1",
+    "pressao_avg": "1008.066",
+    "pnmm_avg": "1025.188",
+    "precip_tot": "2.2"
+  },
+  {
+    "timestamp": "2021-01-31 00:00:00",
+    "temp_avg": "12.54",
+    "temp_max": "14.82",
+    "temp_min": "11.07",
+    "hrel_avg": "91.1",
+    "pressao_avg": "1005.043",
+    "pnmm_avg": "1022.145",
+    "precip_tot": "11.1"
+  },
+  {
+    "timestamp": "2021-02-01 00:00:00",
+    "temp_avg": "13.35",
+    "temp_max": "14.55",
+    "temp_min": "11.67",
+    "hrel_avg": "98.4",
+    "pressao_avg": "1005.03",
+    "pnmm_avg": "1022.083",
+    "precip_tot": "6.1"
+  },
+  {
+    "timestamp": "2021-02-02 00:00:00",
+    "temp_avg": "13.36",
+    "temp_max": "14.48",
+    "temp_min": "12.74",
+    "hrel_avg": "97.7",
+    "pressao_avg": "1006.071",
+    "pnmm_avg": "1023.141",
+    "precip_tot": "4.5"
+  },
+  {
+    "timestamp": "2021-02-03 00:00:00",
+    "temp_avg": "13.18",
+    "temp_max": "15.27",
+    "temp_min": "11.88",
+    "hrel_avg": "94.3",
+    "pressao_avg": "1002.889",
+    "pnmm_avg": "1019.915",
+    "precip_tot": "1"
+  },
+  {
+    "timestamp": "2021-02-04 00:00:00",
+    "temp_avg": "13.85",
+    "temp_max": "17.42",
+    "temp_min": "11.28",
+    "hrel_avg": "86.2",
+    "pressao_avg": "998.5874",
+    "pnmm_avg": "1015.502",
+    "precip_tot": "11.3"
+  },
+  {
+    "timestamp": "2021-02-05 00:00:00",
+    "temp_avg": "11.68",
+    "temp_max": "14.27",
+    "temp_min": "9.7",
+    "hrel_avg": "80.9",
+    "pressao_avg": "995.2838",
+    "pnmm_avg": "1012.271",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-02-06 00:00:00",
+    "temp_avg": "9.87",
+    "temp_max": "10.7",
+    "temp_min": "9.26",
+    "hrel_avg": "90.5",
+    "pressao_avg": "990.7997",
+    "pnmm_avg": "1007.82",
+    "precip_tot": "7.5"
+  },
+  {
+    "timestamp": "2021-02-07 00:00:00",
+    "temp_avg": "9.94",
+    "temp_max": "12.19",
+    "temp_min": "7.875",
+    "hrel_avg": "88.9",
+    "pressao_avg": "991.1096",
+    "pnmm_avg": "1008.131",
+    "precip_tot": "2"
+  },
+  {
+    "timestamp": "2021-02-08 00:00:00",
+    "temp_avg": "8.37",
+    "temp_max": "12.5",
+    "temp_min": "3.987",
+    "hrel_avg": "89.8",
+    "pressao_avg": "996.1893",
+    "pnmm_avg": "1013.396",
+    "precip_tot": "10.5"
+  },
+  {
+    "timestamp": "2021-02-09 00:00:00",
+    "temp_avg": "11.32",
+    "temp_max": "13.84",
+    "temp_min": "9.78",
+    "hrel_avg": "86.9",
+    "pressao_avg": "993.3657",
+    "pnmm_avg": "1010.342",
+    "precip_tot": "5.1"
+  },
+  {
+    "timestamp": "2021-02-10 00:00:00",
+    "temp_avg": "11.57",
+    "temp_max": "13.75",
+    "temp_min": "9.97",
+    "hrel_avg": "92.8",
+    "pressao_avg": "990.5329",
+    "pnmm_avg": "1007.446",
+    "precip_tot": "45.2"
+  },
+  {
+    "timestamp": "2021-02-11 00:00:00",
+    "temp_avg": "13.02",
+    "temp_max": "16.1",
+    "temp_min": "10.26",
+    "hrel_avg": "87.6",
+    "pressao_avg": "999.2686",
+    "pnmm_avg": "1016.243",
+    "precip_tot": "6.3"
+  },
+  {
+    "timestamp": "2021-02-12 00:00:00",
+    "temp_avg": "14.59",
+    "temp_max": "16.92",
+    "temp_min": "13.05",
+    "hrel_avg": "95.4",
+    "pressao_avg": "1003.773",
+    "pnmm_avg": "1020.73",
+    "precip_tot": "10.6"
+  },
+  {
+    "timestamp": "2021-02-13 00:00:00",
+    "temp_avg": "13.59",
+    "temp_max": "17.81",
+    "temp_min": "10.19",
+    "hrel_avg": "86.8",
+    "pressao_avg": "1009.555",
+    "pnmm_avg": "1026.671",
+    "precip_tot": "0.9"
+  },
+  {
+    "timestamp": "2021-02-14 00:00:00",
+    "temp_avg": "13.05",
+    "temp_max": "19.17",
+    "temp_min": "8.86",
+    "hrel_avg": "84.1",
+    "pressao_avg": "1012.622",
+    "pnmm_avg": "1029.824",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-02-15 00:00:00",
+    "temp_avg": "14.4",
+    "temp_max": "22.04",
+    "temp_min": "7.58",
+    "hrel_avg": "71.46",
+    "pressao_avg": "1011.696",
+    "pnmm_avg": "1028.803",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-02-16 00:00:00",
+    "temp_avg": "16.84",
+    "temp_max": "22.06",
+    "temp_min": "11.27",
+    "hrel_avg": "53.22",
+    "pressao_avg": "1010.706",
+    "pnmm_avg": "1027.649",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-02-17 00:00:00",
+    "temp_avg": "13.95",
+    "temp_max": "16.19",
+    "temp_min": "12.59",
+    "hrel_avg": "81.6",
+    "pressao_avg": "1011.007",
+    "pnmm_avg": "1028.125",
+    "precip_tot": "1.1"
+  },
+  {
+    "timestamp": "2021-02-18 00:00:00",
+    "temp_avg": "14.46",
+    "temp_max": "17.69",
+    "temp_min": "12.33",
+    "hrel_avg": "83.6",
+    "pressao_avg": "1006.659",
+    "pnmm_avg": "1023.672",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-02-19 00:00:00",
+    "temp_avg": "13.44",
+    "temp_max": "15.98",
+    "temp_min": "11.96",
+    "hrel_avg": "88",
+    "pressao_avg": "1002.973",
+    "pnmm_avg": "1019.985",
+    "precip_tot": "6.1"
+  },
+  {
+    "timestamp": "2021-02-20 00:00:00",
+    "temp_avg": "13.55",
+    "temp_max": "15.41",
+    "temp_min": "11.66",
+    "hrel_avg": "84.5",
+    "pressao_avg": "1000.283",
+    "pnmm_avg": "1017.244",
+    "precip_tot": "1.2"
+  },
+  {
+    "timestamp": "2021-02-21 00:00:00",
+    "temp_avg": "12.49",
+    "temp_max": "14.22",
+    "temp_min": "9.77",
+    "hrel_avg": "88.5",
+    "pressao_avg": "992.1487",
+    "pnmm_avg": "1009.034",
+    "precip_tot": "37.5"
+  },
+  {
+    "timestamp": "2021-02-22 00:00:00",
+    "temp_avg": "9.64",
+    "temp_max": "13.18",
+    "temp_min": "7.413",
+    "hrel_avg": "87.7",
+    "pressao_avg": "994.4851",
+    "pnmm_avg": "1011.583",
+    "precip_tot": "17.4"
+  },
+  {
+    "timestamp": "2021-02-23 00:00:00",
+    "temp_avg": "10.07",
+    "temp_max": "16.2",
+    "temp_min": "4.363",
+    "hrel_avg": "78.67",
+    "pressao_avg": "1006.183",
+    "pnmm_avg": "1023.458",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2021-02-24 00:00:00",
+    "temp_avg": "14.72",
+    "temp_max": "18.97",
+    "temp_min": "11.18",
+    "hrel_avg": "58.95",
+    "pressao_avg": "1013.182",
+    "pnmm_avg": "1030.291",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-02-25 00:00:00",
+    "temp_avg": "14.77",
+    "temp_max": "18.51",
+    "temp_min": "10.52",
+    "hrel_avg": "61.34",
+    "pressao_avg": "1012.432",
+    "pnmm_avg": "1029.526",
+    "precip_tot": "1.2"
+  },
+  {
+    "timestamp": "2021-02-26 00:00:00",
+    "temp_avg": "12.45",
+    "temp_max": "14.51",
+    "temp_min": "10.24",
+    "hrel_avg": "86.4",
+    "pressao_avg": "1012.193",
+    "pnmm_avg": "1029.422",
+    "precip_tot": "10.9"
+  },
+  {
+    "timestamp": "2021-02-27 00:00:00",
+    "temp_avg": "14.5",
+    "temp_max": "19.61",
+    "temp_min": "10.61",
+    "hrel_avg": "76.62",
+    "pressao_avg": "1012.203",
+    "pnmm_avg": "1029.31",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-02-28 00:00:00",
+    "temp_avg": "14.87",
+    "temp_max": "20.33",
+    "temp_min": "10.96",
+    "hrel_avg": "70.53",
+    "pressao_avg": "1009.334",
+    "pnmm_avg": "1026.37",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-01 00:00:00",
+    "temp_avg": "14.59",
+    "temp_max": "22.15",
+    "temp_min": "10.22",
+    "hrel_avg": "62.92",
+    "pressao_avg": "1003.696",
+    "pnmm_avg": "1020.654",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-02 00:00:00",
+    "temp_avg": "13.09",
+    "temp_max": "16.87",
+    "temp_min": "9.92",
+    "hrel_avg": "84.2",
+    "pressao_avg": "1004.354",
+    "pnmm_avg": "1021.412",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-03 00:00:00",
+    "temp_avg": "13.57",
+    "temp_max": "17.8",
+    "temp_min": "9.81",
+    "hrel_avg": "76.92",
+    "pressao_avg": "1010.564",
+    "pnmm_avg": "1027.698",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-04 00:00:00",
+    "temp_avg": "14.32",
+    "temp_max": "21.77",
+    "temp_min": "7.66",
+    "hrel_avg": "74.68",
+    "pressao_avg": "1011.255",
+    "pnmm_avg": "1028.361",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-05 00:00:00",
+    "temp_avg": "13.63",
+    "temp_max": "15.79",
+    "temp_min": "10.96",
+    "hrel_avg": "78.41",
+    "pressao_avg": "1003.69",
+    "pnmm_avg": "1020.704",
+    "precip_tot": "1.5"
+  },
+  {
+    "timestamp": "2021-03-06 00:00:00",
+    "temp_avg": "13.54",
+    "temp_max": "19.9",
+    "temp_min": "10.4",
+    "hrel_avg": "78.23",
+    "pressao_avg": "1001.223",
+    "pnmm_avg": "1018.201",
+    "precip_tot": "6.7"
+  },
+  {
+    "timestamp": "2021-03-07 00:00:00",
+    "temp_avg": "14.23",
+    "temp_max": "21.58",
+    "temp_min": "10.46",
+    "hrel_avg": "69.53",
+    "pressao_avg": "1004.983",
+    "pnmm_avg": "1021.985",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-03-08 00:00:00",
+    "temp_avg": "12.12",
+    "temp_max": "18.15",
+    "temp_min": "8.43",
+    "hrel_avg": "81.7",
+    "pressao_avg": "1004.009",
+    "pnmm_avg": "1021.12",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-09 00:00:00",
+    "temp_avg": "11.36",
+    "temp_max": "17.25",
+    "temp_min": "7.355",
+    "hrel_avg": "78.79",
+    "pressao_avg": "1002.423",
+    "pnmm_avg": "1019.552",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-10 00:00:00",
+    "temp_avg": "11.49",
+    "temp_max": "17.98",
+    "temp_min": "6.997",
+    "hrel_avg": "63.46",
+    "pressao_avg": "1006.468",
+    "pnmm_avg": "1023.66",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-11 00:00:00",
+    "temp_avg": "11.49",
+    "temp_max": "18.63",
+    "temp_min": "4.652",
+    "hrel_avg": "78.65",
+    "pressao_avg": "1010.895",
+    "pnmm_avg": "1028.165",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-12 00:00:00",
+    "temp_avg": "13.81",
+    "temp_max": "17.95",
+    "temp_min": "11.27",
+    "hrel_avg": "84.1",
+    "pressao_avg": "1012.788",
+    "pnmm_avg": "1029.945",
+    "precip_tot": "1.6"
+  },
+  {
+    "timestamp": "2021-03-13 00:00:00",
+    "temp_avg": "12.6",
+    "temp_max": "17.76",
+    "temp_min": "8.79",
+    "hrel_avg": "78.42",
+    "pressao_avg": "1012.154",
+    "pnmm_avg": "1029.374",
+    "precip_tot": "0.6"
+  },
+  {
+    "timestamp": "2021-03-14 00:00:00",
+    "temp_avg": "10.7",
+    "temp_max": "16.39",
+    "temp_min": "5.558",
+    "hrel_avg": "75.13",
+    "pressao_avg": "1012.993",
+    "pnmm_avg": "1030.345",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-15 00:00:00",
+    "temp_avg": "12.1",
+    "temp_max": "19.61",
+    "temp_min": "5.833",
+    "hrel_avg": "76.41",
+    "pressao_avg": "1013.694",
+    "pnmm_avg": "1030.974",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-16 00:00:00",
+    "temp_avg": "14.97",
+    "temp_max": "22.87",
+    "temp_min": "8.98",
+    "hrel_avg": "61.33",
+    "pressao_avg": "1010.94",
+    "pnmm_avg": "1028",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-17 00:00:00",
+    "temp_avg": "16.52",
+    "temp_max": "22.83",
+    "temp_min": "11.15",
+    "hrel_avg": "46.85",
+    "pressao_avg": "1010.365",
+    "pnmm_avg": "1027.321",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-18 00:00:00",
+    "temp_avg": "16.67",
+    "temp_max": "23.7",
+    "temp_min": "10.53",
+    "hrel_avg": "47.43",
+    "pressao_avg": "1008.525",
+    "pnmm_avg": "1025.442",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-19 00:00:00",
+    "temp_avg": "14.7",
+    "temp_max": "19.06",
+    "temp_min": "10.21",
+    "hrel_avg": "38.44",
+    "pressao_avg": "1006.02",
+    "pnmm_avg": "1023.01",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-20 00:00:00",
+    "temp_avg": "13.26",
+    "temp_max": "19.13",
+    "temp_min": "8.34",
+    "hrel_avg": "50.6",
+    "pressao_avg": "1003.2",
+    "pnmm_avg": "1020.229",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-21 00:00:00",
+    "temp_avg": "12.33",
+    "temp_max": "17.4",
+    "temp_min": "7.004",
+    "hrel_avg": "39.96",
+    "pressao_avg": "1005.753",
+    "pnmm_avg": "1022.881",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-22 00:00:00",
+    "temp_avg": "11.7",
+    "temp_max": "19.88",
+    "temp_min": "6.165",
+    "hrel_avg": "44.97",
+    "pressao_avg": "1009.054",
+    "pnmm_avg": "1026.279",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-23 00:00:00",
+    "temp_avg": "13.3",
+    "temp_max": "22.73",
+    "temp_min": "5.84",
+    "hrel_avg": "58.56",
+    "pressao_avg": "1006.827",
+    "pnmm_avg": "1023.919",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-24 00:00:00",
+    "temp_avg": "12.73",
+    "temp_max": "21.46",
+    "temp_min": "5.789",
+    "hrel_avg": "72.76",
+    "pressao_avg": "1009.29",
+    "pnmm_avg": "1026.457",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-25 00:00:00",
+    "temp_avg": "13.02",
+    "temp_max": "18.7",
+    "temp_min": "9.23",
+    "hrel_avg": "67.66",
+    "pressao_avg": "1012.061",
+    "pnmm_avg": "1029.255",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-26 00:00:00",
+    "temp_avg": "11.95",
+    "temp_max": "19.71",
+    "temp_min": "6.285",
+    "hrel_avg": "75.6",
+    "pressao_avg": "1010.404",
+    "pnmm_avg": "1027.636",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-27 00:00:00",
+    "temp_avg": "12.21",
+    "temp_max": "18.84",
+    "temp_min": "6.748",
+    "hrel_avg": "74.16",
+    "pressao_avg": "1010.733",
+    "pnmm_avg": "1027.955",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-28 00:00:00",
+    "temp_avg": "13.28",
+    "temp_max": "20.5",
+    "temp_min": "8.75",
+    "hrel_avg": "67.1",
+    "pressao_avg": "1009.831",
+    "pnmm_avg": "1026.972",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-29 00:00:00",
+    "temp_avg": "17.01",
+    "temp_max": "26.14",
+    "temp_min": "8.79",
+    "hrel_avg": "58.66",
+    "pressao_avg": "1009.032",
+    "pnmm_avg": "1025.942",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-30 00:00:00",
+    "temp_avg": "17.79",
+    "temp_max": "21.24",
+    "temp_min": "13.55",
+    "hrel_avg": "52.26",
+    "pressao_avg": "1007.246",
+    "pnmm_avg": "1024.074",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-03-31 00:00:00",
+    "temp_avg": "19.15",
+    "temp_max": "22.39",
+    "temp_min": "14.88",
+    "hrel_avg": "49.58",
+    "pressao_avg": "1005.384",
+    "pnmm_avg": "1022.102",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-01 00:00:00",
+    "temp_avg": "23.03",
+    "temp_max": "27.79",
+    "temp_min": "18.68",
+    "hrel_avg": "32.38",
+    "pressao_avg": "997.3561",
+    "pnmm_avg": "1013.722",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-02 00:00:00",
+    "temp_avg": "16.47",
+    "temp_max": "19.06",
+    "temp_min": "14.01",
+    "hrel_avg": "78.32",
+    "pressao_avg": "998.6271",
+    "pnmm_avg": "1015.387",
+    "precip_tot": "9.7"
+  },
+  {
+    "timestamp": "2021-04-03 00:00:00",
+    "temp_avg": "15.01",
+    "temp_max": "18.89",
+    "temp_min": "13.2",
+    "hrel_avg": "85",
+    "pressao_avg": "1003.816",
+    "pnmm_avg": "1020.749",
+    "precip_tot": "0.2"
+  },
+  {
+    "timestamp": "2021-04-04 00:00:00",
+    "temp_avg": "16.55",
+    "temp_max": "23.58",
+    "temp_min": "13.12",
+    "hrel_avg": "80.7",
+    "pressao_avg": "1001.339",
+    "pnmm_avg": "1018.142",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-05 00:00:00",
+    "temp_avg": "17.09",
+    "temp_max": "25.02",
+    "temp_min": "11.97",
+    "hrel_avg": "45.68",
+    "pressao_avg": "1001.232",
+    "pnmm_avg": "1018.003",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-06 00:00:00",
+    "temp_avg": "17.05",
+    "temp_max": "27.08",
+    "temp_min": "8.65",
+    "hrel_avg": "53.83",
+    "pressao_avg": "1002.719",
+    "pnmm_avg": "1019.521",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-07 00:00:00",
+    "temp_avg": "15.77",
+    "temp_max": "24.99",
+    "temp_min": "8.53",
+    "hrel_avg": "67.69",
+    "pressao_avg": "1000.404",
+    "pnmm_avg": "1017.241",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-08 00:00:00",
+    "temp_avg": "15.76",
+    "temp_max": "24.71",
+    "temp_min": "9.95",
+    "hrel_avg": "61.45",
+    "pressao_avg": "1000.451",
+    "pnmm_avg": "1017.288",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-09 00:00:00",
+    "temp_avg": "16.66",
+    "temp_max": "24.49",
+    "temp_min": "11.61",
+    "hrel_avg": "67.74",
+    "pressao_avg": "1003.902",
+    "pnmm_avg": "1020.742",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-10 00:00:00",
+    "temp_avg": "15.25",
+    "temp_max": "21.07",
+    "temp_min": "12.37",
+    "hrel_avg": "85.5",
+    "pressao_avg": "1001.037",
+    "pnmm_avg": "1017.91",
+    "precip_tot": "9.4"
+  },
+  {
+    "timestamp": "2021-04-11 00:00:00",
+    "temp_avg": "13.97",
+    "temp_max": "19.3",
+    "temp_min": "11.89",
+    "hrel_avg": "90.4",
+    "pressao_avg": "997.3213",
+    "pnmm_avg": "1014.206",
+    "precip_tot": "31.4"
+  },
+  {
+    "timestamp": "2021-04-12 00:00:00",
+    "temp_avg": "15.61",
+    "temp_max": "20.66",
+    "temp_min": "11.37",
+    "hrel_avg": "79.93",
+    "pressao_avg": "1001.568",
+    "pnmm_avg": "1018.43",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-04-13 00:00:00",
+    "temp_avg": "14.89",
+    "temp_max": "20.78",
+    "temp_min": "9.71",
+    "hrel_avg": "67.79",
+    "pressao_avg": "1006.123",
+    "pnmm_avg": "1023.105",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-14 00:00:00",
+    "temp_avg": "15.46",
+    "temp_max": "17.68",
+    "temp_min": "13",
+    "hrel_avg": "90",
+    "pressao_avg": "1005.229",
+    "pnmm_avg": "1022.159",
+    "precip_tot": "5.5"
+  },
+  {
+    "timestamp": "2021-04-15 00:00:00",
+    "temp_avg": "17.42",
+    "temp_max": "23.48",
+    "temp_min": "14.35",
+    "hrel_avg": "80.1",
+    "pressao_avg": "1000.557",
+    "pnmm_avg": "1017.295",
+    "precip_tot": "10.9"
+  },
+  {
+    "timestamp": "2021-04-16 00:00:00",
+    "temp_avg": "18.77",
+    "temp_max": "23.76",
+    "temp_min": "14.34",
+    "hrel_avg": "67.13",
+    "pressao_avg": "1000.505",
+    "pnmm_avg": "1017.164",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-17 00:00:00",
+    "temp_avg": "16.8",
+    "temp_max": "24.05",
+    "temp_min": "11.06",
+    "hrel_avg": "71.47",
+    "pressao_avg": "1001.99",
+    "pnmm_avg": "1018.79",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-18 00:00:00",
+    "temp_avg": "16.23",
+    "temp_max": "23.45",
+    "temp_min": "10.81",
+    "hrel_avg": "49.35",
+    "pressao_avg": "1004.546",
+    "pnmm_avg": "1021.422",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-19 00:00:00",
+    "temp_avg": "16.9",
+    "temp_max": "25.21",
+    "temp_min": "10",
+    "hrel_avg": "55.7",
+    "pressao_avg": "1005.682",
+    "pnmm_avg": "1022.54",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-20 00:00:00",
+    "temp_avg": "16.49",
+    "temp_max": "21.67",
+    "temp_min": "13.32",
+    "hrel_avg": "70.21",
+    "pressao_avg": "1004.617",
+    "pnmm_avg": "1021.478",
+    "precip_tot": "1.6"
+  },
+  {
+    "timestamp": "2021-04-21 00:00:00",
+    "temp_avg": "15.39",
+    "temp_max": "19.15",
+    "temp_min": "13.27",
+    "hrel_avg": "81.2",
+    "pressao_avg": "1001.933",
+    "pnmm_avg": "1018.812",
+    "precip_tot": "0.9"
+  },
+  {
+    "timestamp": "2021-04-22 00:00:00",
+    "temp_avg": "13.94",
+    "temp_max": "15.84",
+    "temp_min": "12.52",
+    "hrel_avg": "92.6",
+    "pressao_avg": "997.8649",
+    "pnmm_avg": "1014.761",
+    "precip_tot": "18.7"
+  },
+  {
+    "timestamp": "2021-04-23 00:00:00",
+    "temp_avg": "16.71",
+    "temp_max": "22.15",
+    "temp_min": "13.5",
+    "hrel_avg": "78.89",
+    "pressao_avg": "999.1322",
+    "pnmm_avg": "1015.888",
+    "precip_tot": "1.7"
+  },
+  {
+    "timestamp": "2021-04-24 00:00:00",
+    "temp_avg": "16.44",
+    "temp_max": "21.73",
+    "temp_min": "13.26",
+    "hrel_avg": "76.45",
+    "pressao_avg": "997.418",
+    "pnmm_avg": "1014.16",
+    "precip_tot": "0.5"
+  },
+  {
+    "timestamp": "2021-04-25 00:00:00",
+    "temp_avg": "17.56",
+    "temp_max": "21.36",
+    "temp_min": "15.38",
+    "hrel_avg": "75.51",
+    "pressao_avg": "995.9731",
+    "pnmm_avg": "1012.626",
+    "precip_tot": "3"
+  },
+  {
+    "timestamp": "2021-04-26 00:00:00",
+    "temp_avg": "14.89",
+    "temp_max": "18.04",
+    "temp_min": "12.97",
+    "hrel_avg": "89.7",
+    "pressao_avg": "994.1982",
+    "pnmm_avg": "1010.976",
+    "precip_tot": "30.6"
+  },
+  {
+    "timestamp": "2021-04-27 00:00:00",
+    "temp_avg": "16.7",
+    "temp_max": "22.04",
+    "temp_min": "12.88",
+    "hrel_avg": "79.86",
+    "pressao_avg": "992.8613",
+    "pnmm_avg": "1009.513",
+    "precip_tot": "5.5"
+  },
+  {
+    "timestamp": "2021-04-28 00:00:00",
+    "temp_avg": "16.34",
+    "temp_max": "20.72",
+    "temp_min": "13.86",
+    "hrel_avg": "82.6",
+    "pressao_avg": "993.0966",
+    "pnmm_avg": "1009.772",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-04-29 00:00:00",
+    "temp_avg": "14.63",
+    "temp_max": "19.13",
+    "temp_min": "11.99",
+    "hrel_avg": "80.8",
+    "pressao_avg": "993.4135",
+    "pnmm_avg": "1010.194",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-04-30 00:00:00",
+    "temp_avg": "13.51",
+    "temp_max": "17.44",
+    "temp_min": "10",
+    "hrel_avg": "68.23",
+    "pressao_avg": "996.5035",
+    "pnmm_avg": "1013.402",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-01 00:00:00",
+    "temp_avg": "12.64",
+    "temp_max": "18.31",
+    "temp_min": "7.57",
+    "hrel_avg": "70.28",
+    "pressao_avg": "998.3409",
+    "pnmm_avg": "1015.325",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-02 00:00:00",
+    "temp_avg": "12.58",
+    "temp_max": "18.04",
+    "temp_min": "7.33",
+    "hrel_avg": "64.46",
+    "pressao_avg": "1002.557",
+    "pnmm_avg": "1019.616",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-03 00:00:00",
+    "temp_avg": "13.05",
+    "temp_max": "20.4",
+    "temp_min": "6.234",
+    "hrel_avg": "64.51",
+    "pressao_avg": "1004.438",
+    "pnmm_avg": "1021.503",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-04 00:00:00",
+    "temp_avg": "15.17",
+    "temp_max": "24.17",
+    "temp_min": "7.638",
+    "hrel_avg": "57.88",
+    "pressao_avg": "1004.353",
+    "pnmm_avg": "1021.291",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-05 00:00:00",
+    "temp_avg": "14.7",
+    "temp_max": "23.29",
+    "temp_min": "7.364",
+    "hrel_avg": "67.91",
+    "pressao_avg": "1005.502",
+    "pnmm_avg": "1022.487",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-06 00:00:00",
+    "temp_avg": "15.94",
+    "temp_max": "22.95",
+    "temp_min": "9.95",
+    "hrel_avg": "74.43",
+    "pressao_avg": "1005.123",
+    "pnmm_avg": "1022.026",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-07 00:00:00",
+    "temp_avg": "17.05",
+    "temp_max": "24",
+    "temp_min": "12.07",
+    "hrel_avg": "73.7",
+    "pressao_avg": "1005.668",
+    "pnmm_avg": "1022.514",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-08 00:00:00",
+    "temp_avg": "17.56",
+    "temp_max": "24.8",
+    "temp_min": "11.17",
+    "hrel_avg": "72.68",
+    "pressao_avg": "1005.322",
+    "pnmm_avg": "1022.134",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-09 00:00:00",
+    "temp_avg": "16.5",
+    "temp_max": "23.28",
+    "temp_min": "10.52",
+    "hrel_avg": "75.83",
+    "pressao_avg": "999.014",
+    "pnmm_avg": "1015.782",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-10 00:00:00",
+    "temp_avg": "14.18",
+    "temp_max": "17.66",
+    "temp_min": "11.66",
+    "hrel_avg": "83.4",
+    "pressao_avg": "993.5436",
+    "pnmm_avg": "1010.353",
+    "precip_tot": "34.7"
+  },
+  {
+    "timestamp": "2021-05-11 00:00:00",
+    "temp_avg": "12.13",
+    "temp_max": "15.12",
+    "temp_min": "10.11",
+    "hrel_avg": "86.7",
+    "pressao_avg": "998.837",
+    "pnmm_avg": "1015.858",
+    "precip_tot": "20"
+  },
+  {
+    "timestamp": "2021-05-12 00:00:00",
+    "temp_avg": "13.6",
+    "temp_max": "18.34",
+    "temp_min": "8.82",
+    "hrel_avg": "73.75",
+    "pressao_avg": "1007.2",
+    "pnmm_avg": "1024.276",
+    "precip_tot": "1.9"
+  },
+  {
+    "timestamp": "2021-05-13 00:00:00",
+    "temp_avg": "15.4",
+    "temp_max": "19.27",
+    "temp_min": "12.33",
+    "hrel_avg": "78.28",
+    "pressao_avg": "1007.152",
+    "pnmm_avg": "1024.119",
+    "precip_tot": "7.7"
+  },
+  {
+    "timestamp": "2021-05-14 00:00:00",
+    "temp_avg": "14.66",
+    "temp_max": "18.77",
+    "temp_min": "12.01",
+    "hrel_avg": "88.4",
+    "pressao_avg": "1005.756",
+    "pnmm_avg": "1022.743",
+    "precip_tot": "4.8"
+  },
+  {
+    "timestamp": "2021-05-15 00:00:00",
+    "temp_avg": "16.04",
+    "temp_max": "21.2",
+    "temp_min": "11.53",
+    "hrel_avg": "77.07",
+    "pressao_avg": "1006.495",
+    "pnmm_avg": "1023.414",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-05-16 00:00:00",
+    "temp_avg": "16.64",
+    "temp_max": "19.03",
+    "temp_min": "14.04",
+    "hrel_avg": "87.4",
+    "pressao_avg": "1005.252",
+    "pnmm_avg": "1022.114",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-17 00:00:00",
+    "temp_avg": "17.01",
+    "temp_max": "20.62",
+    "temp_min": "12.88",
+    "hrel_avg": "88.4",
+    "pressao_avg": "1004.798",
+    "pnmm_avg": "1021.63",
+    "precip_tot": "5.6"
+  },
+  {
+    "timestamp": "2021-05-18 00:00:00",
+    "temp_avg": "16.79",
+    "temp_max": "23.79",
+    "temp_min": "11.32",
+    "hrel_avg": "67.98",
+    "pressao_avg": "1007.352",
+    "pnmm_avg": "1024.243",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-19 00:00:00",
+    "temp_avg": "15.5",
+    "temp_max": "19.88",
+    "temp_min": "12.35",
+    "hrel_avg": "84.4",
+    "pressao_avg": "1008.534",
+    "pnmm_avg": "1025.518",
+    "precip_tot": "0.9"
+  },
+  {
+    "timestamp": "2021-05-20 00:00:00",
+    "temp_avg": "16.71",
+    "temp_max": "24.27",
+    "temp_min": "10.09",
+    "hrel_avg": "71.35",
+    "pressao_avg": "1009.743",
+    "pnmm_avg": "1026.679",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-21 00:00:00",
+    "temp_avg": "18.06",
+    "temp_max": "26.94",
+    "temp_min": "11.24",
+    "hrel_avg": "69.78",
+    "pressao_avg": "1007.981",
+    "pnmm_avg": "1024.81",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-22 00:00:00",
+    "temp_avg": "16.54",
+    "temp_max": "20.64",
+    "temp_min": "12.33",
+    "hrel_avg": "74.53",
+    "pressao_avg": "1005.605",
+    "pnmm_avg": "1022.479",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-23 00:00:00",
+    "temp_avg": "13.89",
+    "temp_max": "18.34",
+    "temp_min": "10.57",
+    "hrel_avg": "68.6",
+    "pressao_avg": "1005.608",
+    "pnmm_avg": "1022.639",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-24 00:00:00",
+    "temp_avg": "13.77",
+    "temp_max": "19.51",
+    "temp_min": "7.895",
+    "hrel_avg": "66.25",
+    "pressao_avg": "1007.807",
+    "pnmm_avg": "1024.884",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-25 00:00:00",
+    "temp_avg": "14.91",
+    "temp_max": "19.59",
+    "temp_min": "11.44",
+    "hrel_avg": "76.15",
+    "pressao_avg": "1010.013",
+    "pnmm_avg": "1027.057",
+    "precip_tot": "2.1"
+  },
+  {
+    "timestamp": "2021-05-26 00:00:00",
+    "temp_avg": "16.49",
+    "temp_max": "25.47",
+    "temp_min": "9.01",
+    "hrel_avg": "67.87",
+    "pressao_avg": "1008.796",
+    "pnmm_avg": "1025.731",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-27 00:00:00",
+    "temp_avg": "18.61",
+    "temp_max": "27.42",
+    "temp_min": "11.58",
+    "hrel_avg": "67.98",
+    "pressao_avg": "1004.073",
+    "pnmm_avg": "1020.804",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-28 00:00:00",
+    "temp_avg": "17.52",
+    "temp_max": "25.47",
+    "temp_min": "12.18",
+    "hrel_avg": "71.86",
+    "pressao_avg": "1001.992",
+    "pnmm_avg": "1018.751",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-29 00:00:00",
+    "temp_avg": "18.14",
+    "temp_max": "26.48",
+    "temp_min": "11.34",
+    "hrel_avg": "71.63",
+    "pressao_avg": "1003.597",
+    "pnmm_avg": "1020.348",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-30 00:00:00",
+    "temp_avg": "17.96",
+    "temp_max": "25.12",
+    "temp_min": "14.11",
+    "hrel_avg": "78.03",
+    "pressao_avg": "1005.929",
+    "pnmm_avg": "1022.727",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-05-31 00:00:00",
+    "temp_avg": "19.2",
+    "temp_max": "27.14",
+    "temp_min": "13.89",
+    "hrel_avg": "79.31",
+    "pressao_avg": "1001.891",
+    "pnmm_avg": "1018.552",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-06-01 00:00:00",
+    "temp_avg": "17.83",
+    "temp_max": "25.16",
+    "temp_min": "14.93",
+    "hrel_avg": "86",
+    "pressao_avg": "997.96",
+    "pnmm_avg": "1014.631",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-06-02 00:00:00",
+    "temp_avg": "16.68",
+    "temp_max": "18.34",
+    "temp_min": "15.45",
+    "hrel_avg": "82",
+    "pressao_avg": "998.8813",
+    "pnmm_avg": "1015.633",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-06-03 00:00:00",
+    "temp_avg": "17",
+    "temp_max": "23.45",
+    "temp_min": "13.38",
+    "hrel_avg": "78.38",
+    "pressao_avg": "1001.928",
+    "pnmm_avg": "1018.714",
+    "precip_tot": "0.1"
+  },
+  {
+    "timestamp": "2021-06-04 00:00:00",
+    "temp_avg": "15.16",
+    "temp_max": "21.39",
+    "temp_min": "10.36",
+    "hrel_avg": "71.91",
+    "pressao_avg": "1006.52",
+    "pnmm_avg": "1023.493",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-06-05 00:00:00",
+    "temp_avg": "16.32",
+    "temp_max": "24.06",
+    "temp_min": "9.63",
+    "hrel_avg": "68.16",
+    "pressao_avg": "1008.656",
+    "pnmm_avg": "1025.598",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-06-06 00:00:00",
+    "temp_avg": "18.42",
+    "temp_max": "26.72",
+    "temp_min": "10.64",
+    "hrel_avg": "68.35",
+    "pressao_avg": "1008.361",
+    "pnmm_avg": "1025.176",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-06-07 00:00:00",
+    "temp_avg": "18.78",
+    "temp_max": "25.91",
+    "temp_min": "13.89",
+    "hrel_avg": "72.45",
+    "pressao_avg": "1008.349",
+    "pnmm_avg": "1025.14",
+    "precip_tot": "0"
+  },
+  {
+    "timestamp": "2021-06-08 00:00:00",
+    "temp_avg": "18.15",
+    "temp_max": "25.5",
+    "temp_min": "13.55",
+    "hrel_avg": "78.18",
+    "pressao_avg": "1007.242",
+    "pnmm_avg": "1024.051",
+    "precip_tot": "0"
+  }
+]

@@ -1,0 +1,1 @@
+This folder is to create/hold programs with the objective to introduce Solar data into the database.

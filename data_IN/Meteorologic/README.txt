@@ -1,0 +1,1 @@
+This folder is to create/hold programs with the objective to introduce Meteorologic data into the database.

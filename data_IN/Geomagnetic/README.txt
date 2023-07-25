@@ -1,0 +1,1 @@
+This folder is to create/hold programs with the objective to introduce Geomagnetic data into the database.
