@@ -1,6 +1,6 @@
 # Project
 
-Welcome to the OGAUC website project!
+Welcome to the best OGAUC website project!
 
 ## Starting
 
